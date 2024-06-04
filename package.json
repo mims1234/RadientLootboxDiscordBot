@@ -4,7 +4,7 @@
   "description": "Valorant based Discord Bot that drops Valorant Loot and players goal is to collect them all",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon bot.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/mims1234/RadientLootboxDiscordBot#readme",
   "dependencies": {
-    "discord.js": "^14.15.3",
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.4.5",
     "nodemon": "^3.1.3"
   }
 }
