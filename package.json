@@ -1,0 +1,24 @@
+{
+  "name": "radientlootboxdiscordbot",
+  "version": "1.0.0",
+  "description": "Valorant based Discord Bot that drops Valorant Loot and players goal is to collect them all",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mims1234/RadientLootboxDiscordBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mims1234/RadientLootboxDiscordBot/issues"
+  },
+  "homepage": "https://github.com/mims1234/RadientLootboxDiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "nodemon": "^3.1.3"
+  }
+}
