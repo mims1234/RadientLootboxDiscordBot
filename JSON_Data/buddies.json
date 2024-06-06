@@ -1,0 +1,2572 @@
+{
+  "f2f07eae-4518-15eb-546b-018961e0dd60": {
+    "uuid": "f2f07eae-4518-15eb-546b-018961e0dd60",
+    "displayName": "Task Force 809 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f2f07eae-4518-15eb-546b-018961e0dd60/displayicon.png"
+  },
+  "bf997358-4a99-c1f8-37b0-5fa64200cdce": {
+    "uuid": "bf997358-4a99-c1f8-37b0-5fa64200cdce",
+    "displayName": "Beckoner Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/bf997358-4a99-c1f8-37b0-5fa64200cdce/displayicon.png"
+  },
+  "dce731f8-4560-5f30-6eb5-8ab2e36864ec": {
+    "uuid": "dce731f8-4560-5f30-6eb5-8ab2e36864ec",
+    "displayName": "RGX 11z Pro Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/dce731f8-4560-5f30-6eb5-8ab2e36864ec/displayicon.png"
+  },
+  "69c50b81-4484-838a-906a-b08d06c03cbd": {
+    "uuid": "69c50b81-4484-838a-906a-b08d06c03cbd",
+    "displayName": "RGX 11z Pro, Ep 4 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/69c50b81-4484-838a-906a-b08d06c03cbd/displayicon.png"
+  },
+  "8a431014-470c-d11f-24e0-35a992e427d2": {
+    "uuid": "8a431014-470c-d11f-24e0-35a992e427d2",
+    "displayName": "Cruiser Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8a431014-470c-d11f-24e0-35a992e427d2/displayicon.png"
+  },
+  "8493f0fd-4d25-7834-86d6-b89ddb1d3f97": {
+    "uuid": "8493f0fd-4d25-7834-86d6-b89ddb1d3f97",
+    "displayName": "Big Announcement Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8493f0fd-4d25-7834-86d6-b89ddb1d3f97/displayicon.png"
+  },
+  "d68825bf-4c77-bf42-a2c8-fab1cd6f2d7f": {
+    "uuid": "d68825bf-4c77-bf42-a2c8-fab1cd6f2d7f",
+    "displayName": "Altitude Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d68825bf-4c77-bf42-a2c8-fab1cd6f2d7f/displayicon.png"
+  },
+  "e99d20eb-472e-59f5-d669-e09cd168820a": {
+    "uuid": "e99d20eb-472e-59f5-d669-e09cd168820a",
+    "displayName": "Anansi Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e99d20eb-472e-59f5-d669-e09cd168820a/displayicon.png"
+  },
+  "2215fb09-4cf3-e57a-cd15-dfb00f92dd44": {
+    "uuid": "2215fb09-4cf3-e57a-cd15-dfb00f92dd44",
+    "displayName": "Araxys Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/2215fb09-4cf3-e57a-cd15-dfb00f92dd44/displayicon.png"
+  },
+  "f59ac578-411a-98a2-8c9d-22a58b352ebd": {
+    "uuid": "f59ac578-411a-98a2-8c9d-22a58b352ebd",
+    "displayName": "Epilogue: Apple a Day Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f59ac578-411a-98a2-8c9d-22a58b352ebd/displayicon.png"
+  },
+  "f5e10416-436e-5ca1-89ce-feb1ea81ca1a": {
+    "uuid": "f5e10416-436e-5ca1-89ce-feb1ea81ca1a",
+    "displayName": "Neptune Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f5e10416-436e-5ca1-89ce-feb1ea81ca1a/displayicon.png"
+  },
+  "d6c38282-4f11-822b-8fe1-dd9ad9045514": {
+    "uuid": "d6c38282-4f11-822b-8fe1-dd9ad9045514",
+    "displayName": "Gaia's Vengeance Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d6c38282-4f11-822b-8fe1-dd9ad9045514/displayicon.png"
+  },
+  "6bdc0477-4b5a-94ed-b944-f284de3b4bd8": {
+    "uuid": "6bdc0477-4b5a-94ed-b944-f284de3b4bd8",
+    "displayName": "Gaia's Vengeance, Ep 7 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/6bdc0477-4b5a-94ed-b944-f284de3b4bd8/displayicon.png"
+  },
+  "70963a6d-45b7-8fd4-c6aa-62b2155715aa": {
+    "uuid": "70963a6d-45b7-8fd4-c6aa-62b2155715aa",
+    "displayName": "Zedd Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/70963a6d-45b7-8fd4-c6aa-62b2155715aa/displayicon.png"
+  },
+  "452194fb-4ebd-353a-2ff7-0e90cf5523f9": {
+    "uuid": "452194fb-4ebd-353a-2ff7-0e90cf5523f9",
+    "displayName": "Get Carried Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/452194fb-4ebd-353a-2ff7-0e90cf5523f9/displayicon.png"
+  },
+  "49d304e1-4e20-4a0b-ede3-698422dc8cde": {
+    "uuid": "49d304e1-4e20-4a0b-ede3-698422dc8cde",
+    "displayName": "Composite Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/49d304e1-4e20-4a0b-ede3-698422dc8cde/displayicon.png"
+  },
+  "3d1a73a2-47cf-d82a-c884-b486084c5b42": {
+    "uuid": "3d1a73a2-47cf-d82a-c884-b486084c5b42",
+    "displayName": "Alley-oop Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/3d1a73a2-47cf-d82a-c884-b486084c5b42/displayicon.png"
+  },
+  "b6f6aa63-4648-56d5-ea37-53bef52031f2": {
+    "uuid": "b6f6aa63-4648-56d5-ea37-53bef52031f2",
+    "displayName": "Epilogue: Alley-oop Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b6f6aa63-4648-56d5-ea37-53bef52031f2/displayicon.png"
+  },
+  "baf4ebf5-4742-3179-4b9d-899a8d49c3fe": {
+    "uuid": "baf4ebf5-4742-3179-4b9d-899a8d49c3fe",
+    "displayName": "Night Guard Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/baf4ebf5-4742-3179-4b9d-899a8d49c3fe/displayicon.png"
+  },
+  "63c9bc9a-48dc-d87d-4d8f-a996814a8b30": {
+    "uuid": "63c9bc9a-48dc-d87d-4d8f-a996814a8b30",
+    "displayName": "Bazooka Badger Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/63c9bc9a-48dc-d87d-4d8f-a996814a8b30/displayicon.png"
+  },
+  "e2e91dbc-494b-bc7a-8979-0d9ba9991aeb": {
+    "uuid": "e2e91dbc-494b-bc7a-8979-0d9ba9991aeb",
+    "displayName": "Big Brain Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e2e91dbc-494b-bc7a-8979-0d9ba9991aeb/displayicon.png"
+  },
+  "d6f5e6a4-4d42-b56d-03c3-92955d294f54": {
+    "uuid": "d6f5e6a4-4d42-b56d-03c3-92955d294f54",
+    "displayName": "In A Bind Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d6f5e6a4-4d42-b56d-03c3-92955d294f54/displayicon.png"
+  },
+  "145da845-43f6-d4d4-d72d-53bd1d78cf28": {
+    "uuid": "145da845-43f6-d4d4-d72d-53bd1d78cf28",
+    "displayName": "Year One Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/145da845-43f6-d4d4-d72d-53bd1d78cf28/displayicon.png"
+  },
+  "201d81f4-4409-03aa-e908-70b8050bbff5": {
+    "uuid": "201d81f4-4409-03aa-e908-70b8050bbff5",
+    "displayName": "Apple a Day Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/201d81f4-4409-03aa-e908-70b8050bbff5/displayicon.png"
+  },
+  "853da947-486d-feb3-ec2d-8ba25a6b545b": {
+    "uuid": "853da947-486d-feb3-ec2d-8ba25a6b545b",
+    "displayName": "BlastX Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/853da947-486d-feb3-ec2d-8ba25a6b545b/displayicon.png"
+  },
+  "5d3744e9-4c9d-1a45-e79b-6b8004041a30": {
+    "uuid": "5d3744e9-4c9d-1a45-e79b-6b8004041a30",
+    "displayName": "Blueberry Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/5d3744e9-4c9d-1a45-e79b-6b8004041a30/displayicon.png"
+  },
+  "d400dd1a-4a81-1b26-b8f1-a994e13739b2": {
+    "uuid": "d400dd1a-4a81-1b26-b8f1-a994e13739b2",
+    "displayName": "Boba Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d400dd1a-4a81-1b26-b8f1-a994e13739b2/displayicon.png"
+  },
+  "f8c59f2f-48f8-a93d-5bef-a7902bde82a5": {
+    "uuid": "f8c59f2f-48f8-a93d-5bef-a7902bde82a5",
+    "displayName": "Nazar Bead Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f8c59f2f-48f8-a93d-5bef-a7902bde82a5/displayicon.png"
+  },
+  "8fbf09a5-4ad2-46ca-d44e-26b46587a1bf": {
+    "uuid": "8fbf09a5-4ad2-46ca-d44e-26b46587a1bf",
+    "displayName": "Hammer Time Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8fbf09a5-4ad2-46ca-d44e-26b46587a1bf/displayicon.png"
+  },
+  "0de92897-4ad5-9941-b3e8-f4bff93a81f7": {
+    "uuid": "0de92897-4ad5-9941-b3e8-f4bff93a81f7",
+    "displayName": "Big ol' Barrel Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/0de92897-4ad5-9941-b3e8-f4bff93a81f7/displayicon.png"
+  },
+  "ca16e324-47f3-5bca-9f25-99a09da14c94": {
+    "uuid": "ca16e324-47f3-5bca-9f25-99a09da14c94",
+    "displayName": "Easy Breezy Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ca16e324-47f3-5bca-9f25-99a09da14c94/displayicon.png"
+  },
+  "c168a992-4428-8d15-365a-58aead037bc5": {
+    "uuid": "c168a992-4428-8d15-365a-58aead037bc5",
+    "displayName": "Ornamental Commander Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c168a992-4428-8d15-365a-58aead037bc5/displayicon.png"
+  },
+  "6ab1269a-4dfb-8021-f058-ab91ce2c0d82": {
+    "uuid": "6ab1269a-4dfb-8021-f058-ab91ce2c0d82",
+    "displayName": "Bruno Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/6ab1269a-4dfb-8021-f058-ab91ce2c0d82/displayicon.png"
+  },
+  "1042074b-4f2a-36c3-506b-c4989f340f6a": {
+    "uuid": "1042074b-4f2a-36c3-506b-c4989f340f6a",
+    "displayName": "Epilogue: Bruno Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/1042074b-4f2a-36c3-506b-c4989f340f6a/displayicon.png"
+  },
+  "af0f1b96-402c-24c5-fbd1-efa74eb4f1e1": {
+    "uuid": "af0f1b96-402c-24c5-fbd1-efa74eb4f1e1",
+    "displayName": "Eco the Bulldog Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/af0f1b96-402c-24c5-fbd1-efa74eb4f1e1/displayicon.png"
+  },
+  "f537e5e5-462d-2492-f0c1-02872ae12daf": {
+    "uuid": "f537e5e5-462d-2492-f0c1-02872ae12daf",
+    "displayName": "Epilogue: Eco the Bulldog Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f537e5e5-462d-2492-f0c1-02872ae12daf/displayicon.png"
+  },
+  "fedceff5-4a3e-0506-dbc0-8ba5b9cfd171": {
+    "uuid": "fedceff5-4a3e-0506-dbc0-8ba5b9cfd171",
+    "displayName": "Bullet Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/fedceff5-4a3e-0506-dbc0-8ba5b9cfd171/displayicon.png"
+  },
+  "5cb098fa-4a93-24e8-4b6c-2396d262de1e": {
+    "uuid": "5cb098fa-4a93-24e8-4b6c-2396d262de1e",
+    "displayName": "Call Me Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/5cb098fa-4a93-24e8-4b6c-2396d262de1e/displayicon.png"
+  },
+  "57bc159c-4bf9-1963-884a-a387e69013be": {
+    "uuid": "57bc159c-4bf9-1963-884a-a387e69013be",
+    "displayName": "Closed Beta Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/57bc159c-4bf9-1963-884a-a387e69013be/displayicon.png"
+  },
+  "c3e0cecf-44ef-a147-c426-be9dbfcd810b": {
+    "uuid": "c3e0cecf-44ef-a147-c426-be9dbfcd810b",
+    "displayName": "Nanowire Cartridge Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c3e0cecf-44ef-a147-c426-be9dbfcd810b/displayicon.png"
+  },
+  "b0a675c7-4d23-9449-cd9c-2b8f94e7194c": {
+    "uuid": "b0a675c7-4d23-9449-cd9c-2b8f94e7194c",
+    "displayName": "Desert Rose Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b0a675c7-4d23-9449-cd9c-2b8f94e7194c/displayicon.png"
+  },
+  "6789cf34-4bce-e4a9-3fb6-f4a019a133c2": {
+    "uuid": "6789cf34-4bce-e4a9-3fb6-f4a019a133c2",
+    "displayName": "Crunch the Numbers Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/6789cf34-4bce-e4a9-3fb6-f4a019a133c2/displayicon.png"
+  },
+  "f2f9607f-44b9-c50e-3635-fe9806b6bcb7": {
+    "uuid": "f2f9607f-44b9-c50e-3635-fe9806b6bcb7",
+    "displayName": "Get The Picture Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f2f9607f-44b9-c50e-3635-fe9806b6bcb7/displayicon.png"
+  },
+  "9f5346af-4fc4-785a-cb5e-e399d609d0c2": {
+    "uuid": "9f5346af-4fc4-785a-cb5e-e399d609d0c2",
+    "displayName": "Let It Cook Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/9f5346af-4fc4-785a-cb5e-e399d609d0c2/displayicon.png"
+  },
+  "30f2297a-48ed-7a0d-edbb-6fb9769ad6b1": {
+    "uuid": "30f2297a-48ed-7a0d-edbb-6fb9769ad6b1",
+    "displayName": "Edible Ornament Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/30f2297a-48ed-7a0d-edbb-6fb9769ad6b1/displayicon.png"
+  },
+  "59fd71a3-4c6f-30e8-bff3-cd81fe316718": {
+    "uuid": "59fd71a3-4c6f-30e8-bff3-cd81fe316718",
+    "displayName": "Cat-Eye Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/59fd71a3-4c6f-30e8-bff3-cd81fe316718/displayicon.png"
+  },
+  "158c6cf9-4d46-7ba4-12a8-2cb957330994": {
+    "uuid": "158c6cf9-4d46-7ba4-12a8-2cb957330994",
+    "displayName": "Claw Tactics: Dan Buddy ",
+    "displayIcon": "https://media.valorant-api.com/buddies/158c6cf9-4d46-7ba4-12a8-2cb957330994/displayicon.png"
+  },
+  "c8259af3-4720-5312-0ba1-f7b65ee39834": {
+    "uuid": "c8259af3-4720-5312-0ba1-f7b65ee39834",
+    "displayName": "VALORANT GO! Vol. 1 Cypher Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c8259af3-4720-5312-0ba1-f7b65ee39834/displayicon.png"
+  },
+  "c5cdbaa1-4518-22ea-2e35-2aa3ad55ce9f": {
+    "uuid": "c5cdbaa1-4518-22ea-2e35-2aa3ad55ce9f",
+    "displayName": "VALORANT GO! Vol. 1 Jett Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c5cdbaa1-4518-22ea-2e35-2aa3ad55ce9f/displayicon.png"
+  },
+  "8e7b95e3-42d2-1b29-af2e-749c4ea24aa9": {
+    "uuid": "8e7b95e3-42d2-1b29-af2e-749c4ea24aa9",
+    "displayName": "VALORANT GO! Vol. 1 Killjoy Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8e7b95e3-42d2-1b29-af2e-749c4ea24aa9/displayicon.png"
+  },
+  "92abc229-4f98-fa7f-b98d-36b902ea68d0": {
+    "uuid": "92abc229-4f98-fa7f-b98d-36b902ea68d0",
+    "displayName": "VALORANT GO! Vol. 2 Phoenix Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/92abc229-4f98-fa7f-b98d-36b902ea68d0/displayicon.png"
+  },
+  "eb6133bb-4896-5f64-85a9-c0bccedd07bd": {
+    "uuid": "eb6133bb-4896-5f64-85a9-c0bccedd07bd",
+    "displayName": "VALORANT GO! Vol. 2 Raze Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/eb6133bb-4896-5f64-85a9-c0bccedd07bd/displayicon.png"
+  },
+  "f1c7487e-4f9a-42d4-8704-0597d7146c26": {
+    "uuid": "f1c7487e-4f9a-42d4-8704-0597d7146c26",
+    "displayName": "VALORANT GO! Vol. 1 Reyna Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f1c7487e-4f9a-42d4-8704-0597d7146c26/displayicon.png"
+  },
+  "919e0b68-4ac0-3ab4-0b1d-80b58103c844": {
+    "uuid": "919e0b68-4ac0-3ab4-0b1d-80b58103c844",
+    "displayName": "VALORANT GO! Vol. 1 Sage Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/919e0b68-4ac0-3ab4-0b1d-80b58103c844/displayicon.png"
+  },
+  "dd2095b0-44e5-92ad-b1cc-b9ad44c29f28": {
+    "uuid": "dd2095b0-44e5-92ad-b1cc-b9ad44c29f28",
+    "displayName": "VALORANT GO! Vol. 2 Sova Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/dd2095b0-44e5-92ad-b1cc-b9ad44c29f28/displayicon.png"
+  },
+  "1f242181-4a1d-1ea0-53f1-77ace29f6bf6": {
+    "uuid": "1f242181-4a1d-1ea0-53f1-77ace29f6bf6",
+    "displayName": "VALORANT GO! Vol. 2 Viper Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/1f242181-4a1d-1ea0-53f1-77ace29f6bf6/displayicon.png"
+  },
+  "744457bf-4b96-62ea-934b-ee888267a23f": {
+    "uuid": "744457bf-4b96-62ea-934b-ee888267a23f",
+    "displayName": "VALORANT GO! Vol. 2 Yoru Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/744457bf-4b96-62ea-934b-ee888267a23f/displayicon.png"
+  },
+  "6398ce51-493f-ca74-3a80-2a9a66274613": {
+    "uuid": "6398ce51-493f-ca74-3a80-2a9a66274613",
+    "displayName": "Winner Winner Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/6398ce51-493f-ca74-3a80-2a9a66274613/displayicon.png"
+  },
+  "fb5a1cb7-4508-bcb8-f8e4-75b6d2145317": {
+    "uuid": "fb5a1cb7-4508-bcb8-f8e4-75b6d2145317",
+    "displayName": "Good Luck Knot Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/fb5a1cb7-4508-bcb8-f8e4-75b6d2145317/displayicon.png"
+  },
+  "69af0ee3-410a-6cfd-6065-09a1b493b6fd": {
+    "uuid": "69af0ee3-410a-6cfd-6065-09a1b493b6fd",
+    "displayName": "Chicken Out Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/69af0ee3-410a-6cfd-6065-09a1b493b6fd/displayicon.png"
+  },
+  "dabefcd9-4cc3-aee0-85fd-3cadff8d0096": {
+    "uuid": "dabefcd9-4cc3-aee0-85fd-3cadff8d0096",
+    "displayName": "Origin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/dabefcd9-4cc3-aee0-85fd-3cadff8d0096/displayicon.png"
+  },
+  "99813567-4b6a-47c2-d36f-0ba5bc89adac": {
+    "uuid": "99813567-4b6a-47c2-d36f-0ba5bc89adac",
+    "displayName": "Blast Pin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/99813567-4b6a-47c2-d36f-0ba5bc89adac/displayicon.png"
+  },
+  "34b3cc0f-4ffe-e29e-f395-b5ba37e3e461": {
+    "uuid": "34b3cc0f-4ffe-e29e-f395-b5ba37e3e461",
+    "displayName": "Island Dreams Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/34b3cc0f-4ffe-e29e-f395-b5ba37e3e461/displayicon.png"
+  },
+  "c2d90932-4cc3-512e-f741-3daa7abd4c2b": {
+    "uuid": "c2d90932-4cc3-512e-f741-3daa7abd4c2b",
+    "displayName": "Rune Stone Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c2d90932-4cc3-512e-f741-3daa7abd4c2b/displayicon.png"
+  },
+  "2fe275a6-41f2-bf54-7fb9-7593429ea675": {
+    "uuid": "2fe275a6-41f2-bf54-7fb9-7593429ea675",
+    "displayName": "EP 1 // 1 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/2fe275a6-41f2-bf54-7fb9-7593429ea675/displayicon.png"
+  },
+  "2a1514dd-433d-c2e4-23a0-c1a75ccae00b": {
+    "uuid": "2a1514dd-433d-c2e4-23a0-c1a75ccae00b",
+    "displayName": "EP 1 // 2 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/2a1514dd-433d-c2e4-23a0-c1a75ccae00b/displayicon.png"
+  },
+  "64245bfe-4740-fc95-95a4-81b4ec4d3412": {
+    "uuid": "64245bfe-4740-fc95-95a4-81b4ec4d3412",
+    "displayName": "EP 1 // 3 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/64245bfe-4740-fc95-95a4-81b4ec4d3412/displayicon.png"
+  },
+  "15e4057c-4446-064d-98c7-249e479d8501": {
+    "uuid": "15e4057c-4446-064d-98c7-249e479d8501",
+    "displayName": "EP 2 // 1 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/15e4057c-4446-064d-98c7-249e479d8501/displayicon.png"
+  },
+  "8374dfd2-4424-4805-e987-fd859b986d7a": {
+    "uuid": "8374dfd2-4424-4805-e987-fd859b986d7a",
+    "displayName": "EP 2 // 2 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8374dfd2-4424-4805-e987-fd859b986d7a/displayicon.png"
+  },
+  "12b3da72-47ec-a773-5da4-a390e6321cb6": {
+    "uuid": "12b3da72-47ec-a773-5da4-a390e6321cb6",
+    "displayName": "EP 2 // 3 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/12b3da72-47ec-a773-5da4-a390e6321cb6/displayicon.png"
+  },
+  "84953dce-470e-a3a2-30c1-569f960c50c3": {
+    "uuid": "84953dce-470e-a3a2-30c1-569f960c50c3",
+    "displayName": "EP 3 // 1 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/84953dce-470e-a3a2-30c1-569f960c50c3/displayicon.png"
+  },
+  "d2fadb86-42f0-625c-79f7-339ec97e7cac": {
+    "uuid": "d2fadb86-42f0-625c-79f7-339ec97e7cac",
+    "displayName": "Ep 3 // 2 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d2fadb86-42f0-625c-79f7-339ec97e7cac/displayicon.png"
+  },
+  "0a31022f-4e2e-d59b-d0f3-a4b8e0da0564": {
+    "uuid": "0a31022f-4e2e-d59b-d0f3-a4b8e0da0564",
+    "displayName": "Ep 3 // 3 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/0a31022f-4e2e-d59b-d0f3-a4b8e0da0564/displayicon.png"
+  },
+  "06cccd4f-4502-ca82-9b56-e884e611ca2c": {
+    "uuid": "06cccd4f-4502-ca82-9b56-e884e611ca2c",
+    "displayName": "Ep 4 // 1 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/06cccd4f-4502-ca82-9b56-e884e611ca2c/displayicon.png"
+  },
+  "31e9874a-4e7b-da49-8f3c-2f8e0dff43ac": {
+    "uuid": "31e9874a-4e7b-da49-8f3c-2f8e0dff43ac",
+    "displayName": "Ep 4 // 2 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/31e9874a-4e7b-da49-8f3c-2f8e0dff43ac/displayicon.png"
+  },
+  "8955df3c-4021-3ad5-ef40-9f80e18618e7": {
+    "uuid": "8955df3c-4021-3ad5-ef40-9f80e18618e7",
+    "displayName": "EP 4 // 3 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8955df3c-4021-3ad5-ef40-9f80e18618e7/displayicon.png"
+  },
+  "02bb2322-4bf5-24d1-1406-eba33a0ef7dc": {
+    "uuid": "02bb2322-4bf5-24d1-1406-eba33a0ef7dc",
+    "displayName": "Ep 5 // 1 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/02bb2322-4bf5-24d1-1406-eba33a0ef7dc/displayicon.png"
+  },
+  "e411c0f6-4287-0e2f-4b5f-2e8170ffd805": {
+    "uuid": "e411c0f6-4287-0e2f-4b5f-2e8170ffd805",
+    "displayName": "Ep 5 // 2 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e411c0f6-4287-0e2f-4b5f-2e8170ffd805/displayicon.png"
+  },
+  "d2fdb49a-4829-0fb8-102a-6d9112e3c367": {
+    "uuid": "d2fdb49a-4829-0fb8-102a-6d9112e3c367",
+    "displayName": "Ep 5 // 3 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d2fdb49a-4829-0fb8-102a-6d9112e3c367/displayicon.png"
+  },
+  "66c26557-4ee6-6a61-83d4-04bd138ee2e4": {
+    "uuid": "66c26557-4ee6-6a61-83d4-04bd138ee2e4",
+    "displayName": "Ep 6 // 1 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/66c26557-4ee6-6a61-83d4-04bd138ee2e4/displayicon.png"
+  },
+  "c58337a2-4495-e5bf-b571-96b2b62f93cc": {
+    "uuid": "c58337a2-4495-e5bf-b571-96b2b62f93cc",
+    "displayName": "Ep 6 // 2 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c58337a2-4495-e5bf-b571-96b2b62f93cc/displayicon.png"
+  },
+  "fe575bbd-4ebc-78b4-84b0-7ea97d6f9833": {
+    "uuid": "fe575bbd-4ebc-78b4-84b0-7ea97d6f9833",
+    "displayName": "Ep 6 // 3 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/fe575bbd-4ebc-78b4-84b0-7ea97d6f9833/displayicon.png"
+  },
+  "23511e47-44f8-a1b2-34da-09b2962693e5": {
+    "uuid": "23511e47-44f8-a1b2-34da-09b2962693e5",
+    "displayName": "Ep 7 // 1 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/23511e47-44f8-a1b2-34da-09b2962693e5/displayicon.png"
+  },
+  "72229aec-40b8-7117-0a17-b38be68c9e46": {
+    "uuid": "72229aec-40b8-7117-0a17-b38be68c9e46",
+    "displayName": "Ep 7 // 2 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/72229aec-40b8-7117-0a17-b38be68c9e46/displayicon.png"
+  },
+  "52e28e6c-46f1-c370-1ab1-c89ab5f060fa": {
+    "uuid": "52e28e6c-46f1-c370-1ab1-c89ab5f060fa",
+    "displayName": "Ep 7 // 3 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/52e28e6c-46f1-c370-1ab1-c89ab5f060fa/displayicon.png"
+  },
+  "f72bfb46-4b57-bb2e-0cfe-bfa9c5089eb3": {
+    "uuid": "f72bfb46-4b57-bb2e-0cfe-bfa9c5089eb3",
+    "displayName": "Ep 8 // 1 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f72bfb46-4b57-bb2e-0cfe-bfa9c5089eb3/displayicon.png"
+  },
+  "5d4e4f23-40c8-95a9-55b7-b9bb4c55470f": {
+    "uuid": "5d4e4f23-40c8-95a9-55b7-b9bb4c55470f",
+    "displayName": "Ep 8 // 2 Coin Buddy ",
+    "displayIcon": "https://media.valorant-api.com/buddies/5d4e4f23-40c8-95a9-55b7-b9bb4c55470f/displayicon.png"
+  },
+  "fdea7d2b-4cc7-e129-1e14-3da6e4d710e5": {
+    "uuid": "fdea7d2b-4cc7-e129-1e14-3da6e4d710e5",
+    "displayName": "Ep 8 // 3 Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/fdea7d2b-4cc7-e129-1e14-3da6e4d710e5/displayicon.png"
+  },
+  "e826de1b-4c4e-5ef7-45bf-a9b360b7daf5": {
+    "uuid": "e826de1b-4c4e-5ef7-45bf-a9b360b7daf5",
+    "displayName": "Comet Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e826de1b-4c4e-5ef7-45bf-a9b360b7daf5/displayicon.png"
+  },
+  "bf01e45d-4c06-ee19-f66e-b1b5acf073c4": {
+    "uuid": "bf01e45d-4c06-ee19-f66e-b1b5acf073c4",
+    "displayName": "Follow Me Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/bf01e45d-4c06-ee19-f66e-b1b5acf073c4/displayicon.png"
+  },
+  "1bdf2eac-4db6-de1f-7ade-d5bdac4d9d69": {
+    "uuid": "1bdf2eac-4db6-de1f-7ade-d5bdac4d9d69",
+    "displayName": "Shell Song Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/1bdf2eac-4db6-de1f-7ade-d5bdac4d9d69/displayicon.png"
+  },
+  "b8fec641-431a-f6a2-32c4-20b18ad9d261": {
+    "uuid": "b8fec641-431a-f6a2-32c4-20b18ad9d261",
+    "displayName": "Epilogue: Shell Song Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b8fec641-431a-f6a2-32c4-20b18ad9d261/displayicon.png"
+  },
+  "c4ba9f04-49a2-22e6-a273-27a716eb7d7a": {
+    "uuid": "c4ba9f04-49a2-22e6-a273-27a716eb7d7a",
+    "displayName": "Corbin's Light Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c4ba9f04-49a2-22e6-a273-27a716eb7d7a/displayicon.png"
+  },
+  "7ac1f7db-42a7-bf5a-5b13-95b70e618f5e": {
+    "uuid": "7ac1f7db-42a7-bf5a-5b13-95b70e618f5e",
+    "displayName": "Chilly McFreeze Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7ac1f7db-42a7-bf5a-5b13-95b70e618f5e/displayicon.png"
+  },
+  "526c278b-49c1-53cc-4395-c68128c29fe4": {
+    "uuid": "526c278b-49c1-53cc-4395-c68128c29fe4",
+    "displayName": "Completely Cracked Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/526c278b-49c1-53cc-4395-c68128c29fe4/displayicon.png"
+  },
+  "e0462e6c-4188-06cc-e28d-ac9abcc16bc2": {
+    "uuid": "e0462e6c-4188-06cc-e28d-ac9abcc16bc2",
+    "displayName": "Crate Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e0462e6c-4188-06cc-e28d-ac9abcc16bc2/displayicon.png"
+  },
+  "0f1ce8ce-4615-637d-6772-0fa15b848fe4": {
+    "uuid": "0f1ce8ce-4615-637d-6772-0fa15b848fe4",
+    "displayName": "Radianite Crate Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/0f1ce8ce-4615-637d-6772-0fa15b848fe4/displayicon.png"
+  },
+  "fe997250-41ef-444a-a12b-7ca8ca87cb40": {
+    "uuid": "fe997250-41ef-444a-a12b-7ca8ca87cb40",
+    "displayName": "Red Alert Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/fe997250-41ef-444a-a12b-7ca8ca87cb40/displayicon.png"
+  },
+  "271c1309-4185-d000-c8bf-56a170c17e1c": {
+    "uuid": "271c1309-4185-d000-c8bf-56a170c17e1c",
+    "displayName": "Cup o' Crown Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/271c1309-4185-d000-c8bf-56a170c17e1c/displayicon.png"
+  },
+  "d22eff46-419a-9ebc-c60a-4892359fa2d1": {
+    "uuid": "d22eff46-419a-9ebc-c60a-4892359fa2d1",
+    "displayName": "Prime Time Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d22eff46-419a-9ebc-c60a-4892359fa2d1/displayicon.png"
+  },
+  "c42afaaf-4e7e-ccc8-248e-848a290e3499": {
+    "uuid": "c42afaaf-4e7e-ccc8-248e-848a290e3499",
+    "displayName": "Slurp Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c42afaaf-4e7e-ccc8-248e-848a290e3499/displayicon.png"
+  },
+  "2092c352-47d8-be17-724c-14807ea7041a": {
+    "uuid": "2092c352-47d8-be17-724c-14807ea7041a",
+    "displayName": "Arcane Cupcake Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/2092c352-47d8-be17-724c-14807ea7041a/displayicon.png"
+  },
+  "bba270f1-4dc9-cae1-1e30-2dbf504a1d83": {
+    "uuid": "bba270f1-4dc9-cae1-1e30-2dbf504a1d83",
+    "displayName": "Electric Love Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/bba270f1-4dc9-cae1-1e30-2dbf504a1d83/displayicon.png"
+  },
+  "e643ce87-4d21-e8ae-4fd4-f4870eea33c7": {
+    "uuid": "e643ce87-4d21-e8ae-4fd4-f4870eea33c7",
+    "displayName": "Divine Swine Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e643ce87-4d21-e8ae-4fd4-f4870eea33c7/displayicon.png"
+  },
+  "0baed110-4723-10bb-aba5-1d90b8a24d09": {
+    "uuid": "0baed110-4723-10bb-aba5-1d90b8a24d09",
+    "displayName": "Potted Pal Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/0baed110-4723-10bb-aba5-1d90b8a24d09/displayicon.png"
+  },
+  "c5bee9f1-4548-03c3-f88d-d7bf38d1943e": {
+    "uuid": "c5bee9f1-4548-03c3-f88d-d7bf38d1943e",
+    "displayName": "Glitchpop Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c5bee9f1-4548-03c3-f88d-d7bf38d1943e/displayicon.png"
+  },
+  "faca42f0-47d9-0fcb-116f-9e9b37060bd1": {
+    "uuid": "faca42f0-47d9-0fcb-116f-9e9b37060bd1",
+    "displayName": "Glitchpop, EP 2 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/faca42f0-47d9-0fcb-116f-9e9b37060bd1/displayicon.png"
+  },
+  "9a6231c0-41e5-c42d-9745-cc9010877fdc": {
+    "uuid": "9a6231c0-41e5-c42d-9745-cc9010877fdc",
+    "displayName": "Champions 2022 Dad Hat Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/9a6231c0-41e5-c42d-9745-cc9010877fdc/displayicon.png"
+  },
+  "b681b5cf-4394-1af7-7ccb-b8a412d05010": {
+    "uuid": "b681b5cf-4394-1af7-7ccb-b8a412d05010",
+    "displayName": "ChronoVoid Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b681b5cf-4394-1af7-7ccb-b8a412d05010/displayicon.png"
+  },
+  "a1e75ddf-47ab-ae85-e223-90b94563c702": {
+    "uuid": "a1e75ddf-47ab-ae85-e223-90b94563c702",
+    "displayName": "Dalgona Coffee Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/a1e75ddf-47ab-ae85-e223-90b94563c702/displayicon.png"
+  },
+  "29372ece-48ee-8b64-d0e7-98afe80e4244": {
+    "uuid": "29372ece-48ee-8b64-d0e7-98afe80e4244",
+    "displayName": "Dance Fever Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/29372ece-48ee-8b64-d0e7-98afe80e4244/displayicon.png"
+  },
+  "d5b10115-43ea-42e7-8843-5bb5c1e73c6e": {
+    "uuid": "d5b10115-43ea-42e7-8843-5bb5c1e73c6e",
+    "displayName": "Danger Lizard Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d5b10115-43ea-42e7-8843-5bb5c1e73c6e/displayicon.png"
+  },
+  "f674accd-43be-712e-8fed-fd88b6438841": {
+    "uuid": "f674accd-43be-712e-8fed-fd88b6438841",
+    "displayName": "Shoot Here Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f674accd-43be-712e-8fed-fd88b6438841/displayicon.png"
+  },
+  "b3066549-4b2a-f7d4-d655-3784181db732": {
+    "uuid": "b3066549-4b2a-f7d4-d655-3784181db732",
+    "displayName": "Daruma Charm Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b3066549-4b2a-f7d4-d655-3784181db732/displayicon.png"
+  },
+  "cd1500f0-470c-9753-1cb9-43924c98fc84": {
+    "uuid": "cd1500f0-470c-9753-1cb9-43924c98fc84",
+    "displayName": "Prelude to Chaos Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/cd1500f0-470c-9753-1cb9-43924c98fc84/displayicon.png"
+  },
+  "b0e6b3db-45fe-f622-52f2-51811650560e": {
+    "uuid": "b0e6b3db-45fe-f622-52f2-51811650560e",
+    "displayName": "Lucky Dice Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b0e6b3db-45fe-f622-52f2-51811650560e/displayicon.png"
+  },
+  "42afb96b-4d11-e465-55a4-0b87bdfbf244": {
+    "uuid": "42afb96b-4d11-e465-55a4-0b87bdfbf244",
+    "displayName": "Discotech Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/42afb96b-4d11-e465-55a4-0b87bdfbf244/displayicon.png"
+  },
+  "910ea2d6-4578-c826-2b06-1594769766fb": {
+    "uuid": "910ea2d6-4578-c826-2b06-1594769766fb",
+    "displayName": "Epilogue: Discotech Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/910ea2d6-4578-c826-2b06-1594769766fb/displayicon.png"
+  },
+  "67592092-4c30-79b7-1a03-bc83deeadd59": {
+    "uuid": "67592092-4c30-79b7-1a03-bc83deeadd59",
+    "displayName": "Outlaw Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/67592092-4c30-79b7-1a03-bc83deeadd59/displayicon.png"
+  },
+  "26d1b452-461d-8d6f-526b-658c692e0f9e": {
+    "uuid": "26d1b452-461d-8d6f-526b-658c692e0f9e",
+    "displayName": "Donut Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/26d1b452-461d-8d6f-526b-658c692e0f9e/displayicon.png"
+  },
+  "38a10a3b-495c-eeff-b8af-c3b2b5cdc3f9": {
+    "uuid": "38a10a3b-495c-eeff-b8af-c3b2b5cdc3f9",
+    "displayName": "Elderflame Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/38a10a3b-495c-eeff-b8af-c3b2b5cdc3f9/displayicon.png"
+  },
+  "df7fdf8c-4c92-b44a-9020-e1b6e4ccd50f": {
+    "uuid": "df7fdf8c-4c92-b44a-9020-e1b6e4ccd50f",
+    "displayName": "Message in a Bottle Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/df7fdf8c-4c92-b44a-9020-e1b6e4ccd50f/displayicon.png"
+  },
+  "6d145c4a-42c5-1f21-6142-cd9da00c3794": {
+    "uuid": "6d145c4a-42c5-1f21-6142-cd9da00c3794",
+    "displayName": "Ion, Ep5 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/6d145c4a-42c5-1f21-6142-cd9da00c3794/displayicon.png"
+  },
+  "45b67ec9-4f33-6ba7-625a-36b81016297a": {
+    "uuid": "45b67ec9-4f33-6ba7-625a-36b81016297a",
+    "displayName": "VLT/R Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/45b67ec9-4f33-6ba7-625a-36b81016297a/displayicon.png"
+  },
+  "54bdfb80-4e4d-50eb-6db6-74b284a76835": {
+    "uuid": "54bdfb80-4e4d-50eb-6db6-74b284a76835",
+    "displayName": "Ragna-Rock Out Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/54bdfb80-4e4d-50eb-6db6-74b284a76835/displayicon.png"
+  },
+  "10b65214-4c78-ae60-2b74-429b395a9cbe": {
+    "uuid": "10b65214-4c78-ae60-2b74-429b395a9cbe",
+    "displayName": "Ducky on Swing Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/10b65214-4c78-ae60-2b74-429b395a9cbe/displayicon.png"
+  },
+  "0911b78d-48a7-fb01-3ccd-0ca9a3996f75": {
+    "uuid": "0911b78d-48a7-fb01-3ccd-0ca9a3996f75",
+    "displayName": "Happy Dumpling Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/0911b78d-48a7-fb01-3ccd-0ca9a3996f75/displayicon.png"
+  },
+  "5e4482b8-4c85-d570-d9b6-929a8d6094d5": {
+    "uuid": "5e4482b8-4c85-d570-d9b6-929a8d6094d5",
+    "displayName": "Dumpster Fire Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/5e4482b8-4c85-d570-d9b6-929a8d6094d5/displayicon.png"
+  },
+  "6e7d4b62-402b-9e2a-c531-58b5091d8dc8": {
+    "uuid": "6e7d4b62-402b-9e2a-c531-58b5091d8dc8",
+    "displayName": "Epilogue: Dumpster Fire Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/6e7d4b62-402b-9e2a-c531-58b5091d8dc8/displayicon.png"
+  },
+  "8f32610e-48f1-4d6f-46ad-90911845dad3": {
+    "uuid": "8f32610e-48f1-4d6f-46ad-90911845dad3",
+    "displayName": "Imperium Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8f32610e-48f1-4d6f-46ad-90911845dad3/displayicon.png"
+  },
+  "8cb83ad7-4e5b-73a1-173d-dc970951af9b": {
+    "uuid": "8cb83ad7-4e5b-73a1-173d-dc970951af9b",
+    "displayName": "Egg in a Basket Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8cb83ad7-4e5b-73a1-173d-dc970951af9b/displayicon.png"
+  },
+  "2de08c48-4aa1-0c32-138d-4b834c21aee2": {
+    "uuid": "2de08c48-4aa1-0c32-138d-4b834c21aee2",
+    "displayName": "Singularity Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/2de08c48-4aa1-0c32-138d-4b834c21aee2/displayicon.png"
+  },
+  "b681672d-497d-9d2b-10e7-3dbfd8a759c4": {
+    "uuid": "b681672d-497d-9d2b-10e7-3dbfd8a759c4",
+    "displayName": "Sunny Side Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b681672d-497d-9d2b-10e7-3dbfd8a759c4/displayicon.png"
+  },
+  "8ce61688-4069-ed20-c21b-6eba4b8daf01": {
+    "uuid": "8ce61688-4069-ed20-c21b-6eba4b8daf01",
+    "displayName": "Epilogue: Sunny Side Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8ce61688-4069-ed20-c21b-6eba4b8daf01/displayicon.png"
+  },
+  "ed3f2ce6-44e4-8583-840d-df8ab46933da": {
+    "uuid": "ed3f2ce6-44e4-8583-840d-df8ab46933da",
+    "displayName": "Music Electric Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ed3f2ce6-44e4-8583-840d-df8ab46933da/displayicon.png"
+  },
+  "3c9bfa19-4688-39ff-5377-3cac9d396a32": {
+    "uuid": "3c9bfa19-4688-39ff-5377-3cac9d396a32",
+    "displayName": "Songsteel Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/3c9bfa19-4688-39ff-5377-3cac9d396a32/displayicon.png"
+  },
+  "149f276c-474d-2171-43b3-41a6fc43dcc7": {
+    "uuid": "149f276c-474d-2171-43b3-41a6fc43dcc7",
+    "displayName": "Together Forever Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/149f276c-474d-2171-43b3-41a6fc43dcc7/displayicon.png"
+  },
+  "94d60045-461f-94b0-5f7b-1385c8c93118": {
+    "uuid": "94d60045-461f-94b0-5f7b-1385c8c93118",
+    "displayName": "Champions Cube Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/94d60045-461f-94b0-5f7b-1385c8c93118/displayicon.png"
+  },
+  "0556c983-462c-1f6b-1bef-b1979aa07a7f": {
+    "uuid": "0556c983-462c-1f6b-1bef-b1979aa07a7f",
+    "displayName": "VCT LOCK//IN Winner Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/0556c983-462c-1f6b-1bef-b1979aa07a7f/displayicon.png"
+  },
+  "e96e6f84-4315-409a-09bf-788e0cf13ecf": {
+    "uuid": "e96e6f84-4315-409a-09bf-788e0cf13ecf",
+    "displayName": "VCT Champions Winner Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e96e6f84-4315-409a-09bf-788e0cf13ecf/displayicon.png"
+  },
+  "82bdb8b5-40bf-9b65-272e-4eb7dad1264e": {
+    "uuid": "82bdb8b5-40bf-9b65-272e-4eb7dad1264e",
+    "displayName": "VCT Masters Winner Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/82bdb8b5-40bf-9b65-272e-4eb7dad1264e/displayicon.png"
+  },
+  "e2e5ab96-4103-8473-14a7-8d8321a3ae6e": {
+    "uuid": "e2e5ab96-4103-8473-14a7-8d8321a3ae6e",
+    "displayName": "VCT 2021 Spark Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e2e5ab96-4103-8473-14a7-8d8321a3ae6e/displayicon.png"
+  },
+  "2d462f8e-47af-0678-dfa1-c3bc7c307ca7": {
+    "uuid": "2d462f8e-47af-0678-dfa1-c3bc7c307ca7",
+    "displayName": "Good Boy, Bruno Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/2d462f8e-47af-0678-dfa1-c3bc7c307ca7/displayicon.png"
+  },
+  "de915f4a-42d9-4a6c-fc24-c895bdc92e2e": {
+    "uuid": "de915f4a-42d9-4a6c-fc24-c895bdc92e2e",
+    "displayName": "Venturi Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/de915f4a-42d9-4a6c-fc24-c895bdc92e2e/displayicon.png"
+  },
+  "46841a97-48b1-3432-5b28-5ca47df923a9": {
+    "uuid": "46841a97-48b1-3432-5b28-5ca47df923a9",
+    "displayName": "Nice Smile Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/46841a97-48b1-3432-5b28-5ca47df923a9/displayicon.png"
+  },
+  "6ceb34c0-4e16-032b-c97b-9fabcf81eb52": {
+    "uuid": "6ceb34c0-4e16-032b-c97b-9fabcf81eb52",
+    "displayName": "Hundreds and Thousands Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/6ceb34c0-4e16-032b-c97b-9fabcf81eb52/displayicon.png"
+  },
+  "bcc2578f-46aa-c5a3-46bb-4ebfbbcf9b98": {
+    "uuid": "bcc2578f-46aa-c5a3-46bb-4ebfbbcf9b98",
+    "displayName": "Forsaken Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/bcc2578f-46aa-c5a3-46bb-4ebfbbcf9b98/displayicon.png"
+  },
+  "391727ba-46a0-b608-f06a-b6aa5f9ed9f9": {
+    "uuid": "391727ba-46a0-b608-f06a-b6aa5f9ed9f9",
+    "displayName": "Ups and Downs Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/391727ba-46a0-b608-f06a-b6aa5f9ed9f9/displayicon.png"
+  },
+  "310562a9-4586-7dc7-9659-efb99019c79a": {
+    "uuid": "310562a9-4586-7dc7-9659-efb99019c79a",
+    "displayName": "Velocity Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/310562a9-4586-7dc7-9659-efb99019c79a/displayicon.png"
+  },
+  "c28a5ea6-48bd-2bef-d652-cd97c8e1f727": {
+    "uuid": "c28a5ea6-48bd-2bef-d652-cd97c8e1f727",
+    "displayName": "Topotek Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c28a5ea6-48bd-2bef-d652-cd97c8e1f727/displayicon.png"
+  },
+  "7fbe5087-4aa3-df44-310f-59a5b3e01814": {
+    "uuid": "7fbe5087-4aa3-df44-310f-59a5b3e01814",
+    "displayName": "K.nock O.ut!! Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7fbe5087-4aa3-df44-310f-59a5b3e01814/displayicon.png"
+  },
+  "b9926112-49d0-b049-b078-798851912eb7": {
+    "uuid": "b9926112-49d0-b049-b078-798851912eb7",
+    "displayName": "Lunar Firework Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b9926112-49d0-b049-b078-798851912eb7/displayicon.png"
+  },
+  "0262276c-4ede-a858-cad0-1ca4e877052b": {
+    "uuid": "0262276c-4ede-a858-cad0-1ca4e877052b",
+    "displayName": "Ascent Rising Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/0262276c-4ede-a858-cad0-1ca4e877052b/displayicon.png"
+  },
+  "237f36ef-40d5-410a-84be-6c896aad6fde": {
+    "uuid": "237f36ef-40d5-410a-84be-6c896aad6fde",
+    "displayName": "Arcane Poro Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/237f36ef-40d5-410a-84be-6c896aad6fde/displayicon.png"
+  },
+  "65990409-4ad4-86f2-8577-26a121bd0c2d": {
+    "uuid": "65990409-4ad4-86f2-8577-26a121bd0c2d",
+    "displayName": "Team Ace Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/65990409-4ad4-86f2-8577-26a121bd0c2d/displayicon.png"
+  },
+  "e661a25b-4ac4-83e7-e2b5-fba72c0944ac": {
+    "uuid": "e661a25b-4ac4-83e7-e2b5-fba72c0944ac",
+    "displayName": "KNG Meridian Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e661a25b-4ac4-83e7-e2b5-fba72c0944ac/displayicon.png"
+  },
+  "0e08fb58-4f37-0ffb-af30-ada764e6979c": {
+    "uuid": "0e08fb58-4f37-0ffb-af30-ada764e6979c",
+    "displayName": "Deep Divisions Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/0e08fb58-4f37-0ffb-af30-ada764e6979c/displayicon.png"
+  },
+  "1078b8a1-494c-97d9-fdcf-489636dba733": {
+    "uuid": "1078b8a1-494c-97d9-fdcf-489636dba733",
+    "displayName": "Le Baguette Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/1078b8a1-494c-97d9-fdcf-489636dba733/displayicon.png"
+  },
+  "8908dd49-4489-3bad-86c9-8e9d08613c0e": {
+    "uuid": "8908dd49-4489-3bad-86c9-8e9d08613c0e",
+    "displayName": "Kiss the Frog Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8908dd49-4489-3bad-86c9-8e9d08613c0e/displayicon.png"
+  },
+  "b45b70fb-49d4-9d7f-afde-57a1ea79d9b5": {
+    "uuid": "b45b70fb-49d4-9d7f-afde-57a1ea79d9b5",
+    "displayName": "Froggie Hat Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b45b70fb-49d4-9d7f-afde-57a1ea79d9b5/displayicon.png"
+  },
+  "4bd1070f-44ea-cdf5-9738-51a0e4e1c64a": {
+    "uuid": "4bd1070f-44ea-cdf5-9738-51a0e4e1c64a",
+    "displayName": "Spectrum Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/4bd1070f-44ea-cdf5-9738-51a0e4e1c64a/displayicon.png"
+  },
+  "ebd9f1fe-4219-1362-923f-c791a35258e1": {
+    "uuid": "ebd9f1fe-4219-1362-923f-c791a35258e1",
+    "displayName": "Tactical Surprise Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ebd9f1fe-4219-1362-923f-c791a35258e1/displayicon.png"
+  },
+  "902bac6e-4674-cda0-cd3f-92b65d943fed": {
+    "uuid": "902bac6e-4674-cda0-cd3f-92b65d943fed",
+    "displayName": "Game Changers Winner Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/902bac6e-4674-cda0-cd3f-92b65d943fed/displayicon.png"
+  },
+  "8eec6c97-4765-f374-c37e-0e9a9b02eed5": {
+    "uuid": "8eec6c97-4765-f374-c37e-0e9a9b02eed5",
+    "displayName": "Game Changers Trophy Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8eec6c97-4765-f374-c37e-0e9a9b02eed5/displayicon.png"
+  },
+  "b67cf6fc-4f40-761a-c823-8eb8d9dee804": {
+    "uuid": "b67cf6fc-4f40-761a-c823-8eb8d9dee804",
+    "displayName": "Penguin Surprise Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b67cf6fc-4f40-761a-c823-8eb8d9dee804/displayicon.png"
+  },
+  "3b2177bb-4d3e-c527-2f14-97937f73137c": {
+    "uuid": "3b2177bb-4d3e-c527-2f14-97937f73137c",
+    "displayName": "Epilogue: Penguin Surprise Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/3b2177bb-4d3e-c527-2f14-97937f73137c/displayicon.png"
+  },
+  "108a36d5-44ef-9b4c-b783-b29a6a9ae340": {
+    "uuid": "108a36d5-44ef-9b4c-b783-b29a6a9ae340",
+    "displayName": "Gelato Cutie Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/108a36d5-44ef-9b4c-b783-b29a6a9ae340/displayicon.png"
+  },
+  "bb6a39bd-4486-7fda-a2d5-48af18882f73": {
+    "uuid": "bb6a39bd-4486-7fda-a2d5-48af18882f73",
+    "displayName": "Gimbap Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/bb6a39bd-4486-7fda-a2d5-48af18882f73/displayicon.png"
+  },
+  "c839377c-4c9a-9562-28be-91805c2d94f9": {
+    "uuid": "c839377c-4c9a-9562-28be-91805c2d94f9",
+    "displayName": "Tall Tales Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c839377c-4c9a-9562-28be-91805c2d94f9/displayicon.png"
+  },
+  "11059586-411c-38e4-cc25-25aeb31eae02": {
+    "uuid": "11059586-411c-38e4-cc25-25aeb31eae02",
+    "displayName": "Give Back Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/11059586-411c-38e4-cc25-25aeb31eae02/displayicon.png"
+  },
+  "f2bda332-4920-a2f7-86da-a982150de91f": {
+    "uuid": "f2bda332-4920-a2f7-86da-a982150de91f",
+    "displayName": "Give Back // 2023 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f2bda332-4920-a2f7-86da-a982150de91f/displayicon.png"
+  },
+  "7f625bc9-4f70-66bc-7381-cfb1336ddb5b": {
+    "uuid": "7f625bc9-4f70-66bc-7381-cfb1336ddb5b",
+    "displayName": "Give Back // 2024 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7f625bc9-4f70-66bc-7381-cfb1336ddb5b/displayicon.png"
+  },
+  "8efb8d51-453b-2acb-75f5-049f4d33bdfb": {
+    "uuid": "8efb8d51-453b-2acb-75f5-049f4d33bdfb",
+    "displayName": "Terrarium Treasure Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8efb8d51-453b-2acb-75f5-049f4d33bdfb/displayicon.png"
+  },
+  "75737d35-41e9-373d-c179-239b942bb350": {
+    "uuid": "75737d35-41e9-373d-c179-239b942bb350",
+    "displayName": "Shimmer Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/75737d35-41e9-373d-c179-239b942bb350/displayicon.png"
+  },
+  "500e6c02-4005-ebb9-528b-219b57a9cfd2": {
+    "uuid": "500e6c02-4005-ebb9-528b-219b57a9cfd2",
+    "displayName": "Caught Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/500e6c02-4005-ebb9-528b-219b57a9cfd2/displayicon.png"
+  },
+  "41859a85-4344-aeee-483a-468bad39e5fd": {
+    "uuid": "41859a85-4344-aeee-483a-468bad39e5fd",
+    "displayName": "Ruin Watcher Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/41859a85-4344-aeee-483a-468bad39e5fd/displayicon.png"
+  },
+  "7cec4eb4-4078-4dc4-7f00-d6b7348e347a": {
+    "uuid": "7cec4eb4-4078-4dc4-7f00-d6b7348e347a",
+    "displayName": "Memory Chip Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7cec4eb4-4078-4dc4-7f00-d6b7348e347a/displayicon.png"
+  },
+  "c1755278-4574-7e9f-c7af-48820d6a02f4": {
+    "uuid": "c1755278-4574-7e9f-c7af-48820d6a02f4",
+    "displayName": ".SYS Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c1755278-4574-7e9f-c7af-48820d6a02f4/displayicon.png"
+  },
+  "e4689a4b-4df6-86e8-8d34-a19bdc01afe7": {
+    "uuid": "e4689a4b-4df6-86e8-8d34-a19bdc01afe7",
+    "displayName": "Hawko Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e4689a4b-4df6-86e8-8d34-a19bdc01afe7/displayicon.png"
+  },
+  "e058e4f5-40c4-a26a-e6c7-33a4baf2e21f": {
+    "uuid": "e058e4f5-40c4-a26a-e6c7-33a4baf2e21f",
+    "displayName": "White Hat Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e058e4f5-40c4-a26a-e6c7-33a4baf2e21f/displayicon.png"
+  },
+  "0e5aac9d-419a-3767-a154-4c9abfe8c72f": {
+    "uuid": "0e5aac9d-419a-3767-a154-4c9abfe8c72f",
+    "displayName": "Neo Frontier Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/0e5aac9d-419a-3767-a154-4c9abfe8c72f/displayicon.png"
+  },
+  "f671190d-4dfb-89ce-b668-28bf81ecb33a": {
+    "uuid": "f671190d-4dfb-89ce-b668-28bf81ecb33a",
+    "displayName": "Halo Halo Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f671190d-4dfb-89ce-b668-28bf81ecb33a/displayicon.png"
+  },
+  "5f5db91e-4fd5-e0f9-3944-63a93397d3ee": {
+    "uuid": "5f5db91e-4fd5-e0f9-3944-63a93397d3ee",
+    "displayName": "Ready to Roll Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/5f5db91e-4fd5-e0f9-3944-63a93397d3ee/displayicon.png"
+  },
+  "ae240163-4893-5d7e-9029-31a3ca2a9c84": {
+    "uuid": "ae240163-4893-5d7e-9029-31a3ca2a9c84",
+    "displayName": "Safe Haven Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ae240163-4893-5d7e-9029-31a3ca2a9c84/displayicon.png"
+  },
+  "8848ff77-43b1-5f73-8106-778f1ea8593e": {
+    "uuid": "8848ff77-43b1-5f73-8106-778f1ea8593e",
+    "displayName": "Xpert Comms Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8848ff77-43b1-5f73-8106-778f1ea8593e/displayicon.png"
+  },
+  "b2ba9224-4851-23d6-5e28-73a0a86bbf7a": {
+    "uuid": "b2ba9224-4851-23d6-5e28-73a0a86bbf7a",
+    "displayName": "Primordium Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b2ba9224-4851-23d6-5e28-73a0a86bbf7a/displayicon.png"
+  },
+  "6a34ad97-4070-bd56-64c2-81a3484922d6": {
+    "uuid": "6a34ad97-4070-bd56-64c2-81a3484922d6",
+    "displayName": "Digihex Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/6a34ad97-4070-bd56-64c2-81a3484922d6/displayicon.png"
+  },
+  "ebbced2d-4851-6b5d-ff3f-5baaea322dbf": {
+    "uuid": "ebbced2d-4851-6b5d-ff3f-5baaea322dbf",
+    "displayName": "Owl Charm Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ebbced2d-4851-6b5d-ff3f-5baaea322dbf/displayicon.png"
+  },
+  "a696732c-4e9a-c162-3f04-bab15308aec4": {
+    "uuid": "a696732c-4e9a-c162-3f04-bab15308aec4",
+    "displayName": "Hydrodip Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/a696732c-4e9a-c162-3f04-bab15308aec4/displayicon.png"
+  },
+  "8ac9948e-4c40-bcec-4f7d-e6bd5c8b349c": {
+    "uuid": "8ac9948e-4c40-bcec-4f7d-e6bd5c8b349c",
+    "displayName": "Prime Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8ac9948e-4c40-bcec-4f7d-e6bd5c8b349c/displayicon.png"
+  },
+  "32910c32-45e3-4959-9322-1a9fda1126ca": {
+    "uuid": "32910c32-45e3-4959-9322-1a9fda1126ca",
+    "displayName": "Prime//2.0 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/32910c32-45e3-4959-9322-1a9fda1126ca/displayicon.png"
+  },
+  "37bb5fa0-40c7-2247-2b0b-6a82a16b04f1": {
+    "uuid": "37bb5fa0-40c7-2247-2b0b-6a82a16b04f1",
+    "displayName": "XERØFANG Buddy ",
+    "displayIcon": "https://media.valorant-api.com/buddies/37bb5fa0-40c7-2247-2b0b-6a82a16b04f1/displayicon.png"
+  },
+  "14b87153-4fc2-707f-46e5-15b5ffe2f529": {
+    "uuid": "14b87153-4fc2-707f-46e5-15b5ffe2f529",
+    "displayName": "Frozen Solid Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/14b87153-4fc2-707f-46e5-15b5ffe2f529/displayicon.png"
+  },
+  "90c69d6b-4cd2-9d0c-8c3f-ada26e881ea9": {
+    "uuid": "90c69d6b-4cd2-9d0c-8c3f-ada26e881ea9",
+    "displayName": "Icy Crate Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/90c69d6b-4cd2-9d0c-8c3f-ada26e881ea9/displayicon.png"
+  },
+  "ac306edc-49bd-0f04-0104-afa2ae783b99": {
+    "uuid": "ac306edc-49bd-0f04-0104-afa2ae783b99",
+    "displayName": "Premier Ignition Champion Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ac306edc-49bd-0f04-0104-afa2ae783b99/displayicon.png"
+  },
+  "44e9059a-4098-868c-eb8f-3d89f9d49010": {
+    "uuid": "44e9059a-4098-868c-eb8f-3d89f9d49010",
+    "displayName": "Bound Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/44e9059a-4098-868c-eb8f-3d89f9d49010/displayicon.png"
+  },
+  "35083ec3-427e-d4f3-b7fc-1ca79fcb5703": {
+    "uuid": "35083ec3-427e-d4f3-b7fc-1ca79fcb5703",
+    "displayName": "Mi Goreng Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/35083ec3-427e-d4f3-b7fc-1ca79fcb5703/displayicon.png"
+  },
+  "d2b317f7-4f19-7052-cd50-33a32f210da0": {
+    "uuid": "d2b317f7-4f19-7052-cd50-33a32f210da0",
+    "displayName": "VCT LOCK//IN Dad Hat Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d2b317f7-4f19-7052-cd50-33a32f210da0/displayicon.png"
+  },
+  "e1f62dc9-4bd1-868e-3ca3-f7b51fd325fa": {
+    "uuid": "e1f62dc9-4bd1-868e-3ca3-f7b51fd325fa",
+    "displayName": "Jack O' Lantern Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e1f62dc9-4bd1-868e-3ca3-f7b51fd325fa/displayicon.png"
+  },
+  "f10158a7-4009-4acd-d3da-249f20e1cc60": {
+    "uuid": "f10158a7-4009-4acd-d3da-249f20e1cc60",
+    "displayName": "Sea Jelly Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f10158a7-4009-4acd-d3da-249f20e1cc60/displayicon.png"
+  },
+  "a007b490-4fdd-0be8-cbfa-c3be4ffab7cb": {
+    "uuid": "a007b490-4fdd-0be8-cbfa-c3be4ffab7cb",
+    "displayName": "Retrowave Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/a007b490-4fdd-0be8-cbfa-c3be4ffab7cb/displayicon.png"
+  },
+  "07b4a3c8-4fd5-91ca-ee18-5babc3b2c43c": {
+    "uuid": "07b4a3c8-4fd5-91ca-ee18-5babc3b2c43c",
+    "displayName": "Beary Good Fortune Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/07b4a3c8-4fd5-91ca-ee18-5babc3b2c43c/displayicon.png"
+  },
+  "c4e6f0b2-493c-8ff2-128d-2dab80e74a60": {
+    "uuid": "c4e6f0b2-493c-8ff2-128d-2dab80e74a60",
+    "displayName": "Tactic Kappa Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c4e6f0b2-493c-8ff2-128d-2dab80e74a60/displayicon.png"
+  },
+  "17535eeb-4487-18fe-1e3a-49bc51a3e216": {
+    "uuid": "17535eeb-4487-18fe-1e3a-49bc51a3e216",
+    "displayName": "Give Back // 2022 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/17535eeb-4487-18fe-1e3a-49bc51a3e216/displayicon.png"
+  },
+  "d51ebb6b-4cd1-99a7-f52b-7987ee654a44": {
+    "uuid": "d51ebb6b-4cd1-99a7-f52b-7987ee654a44",
+    "displayName": "Extra Crispy Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d51ebb6b-4cd1-99a7-f52b-7987ee654a44/displayicon.png"
+  },
+  "e97d4c30-4ca4-d433-f24c-789abcfdf059": {
+    "uuid": "e97d4c30-4ca4-d433-f24c-789abcfdf059",
+    "displayName": "Heavy Lifting Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e97d4c30-4ca4-d433-f24c-789abcfdf059/displayicon.png"
+  },
+  "b39fbd41-4ec6-242d-02a6-dfbe7322c579": {
+    "uuid": "b39fbd41-4ec6-242d-02a6-dfbe7322c579",
+    "displayName": "The Key to Ancient Mysteries Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b39fbd41-4ec6-242d-02a6-dfbe7322c579/displayicon.png"
+  },
+  "ee83292a-4698-354e-9d2d-a58a19a76d11": {
+    "uuid": "ee83292a-4698-354e-9d2d-a58a19a76d11",
+    "displayName": "Key of Life Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ee83292a-4698-354e-9d2d-a58a19a76d11/displayicon.png"
+  },
+  "12372dbb-4f09-4b26-6fe5-779488aaa9f9": {
+    "uuid": "12372dbb-4f09-4b26-6fe5-779488aaa9f9",
+    "displayName": "Bot Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/12372dbb-4f09-4b26-6fe5-779488aaa9f9/displayicon.png"
+  },
+  "1e909ee9-4af5-5d50-aa27-2bb596187986": {
+    "uuid": "1e909ee9-4af5-5d50-aa27-2bb596187986",
+    "displayName": "Netter Treter Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/1e909ee9-4af5-5d50-aa27-2bb596187986/displayicon.png"
+  },
+  "e89b2788-4b97-e144-4a62-9f8b4bbe8b2a": {
+    "uuid": "e89b2788-4b97-e144-4a62-9f8b4bbe8b2a",
+    "displayName": "Ruination Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e89b2788-4b97-e144-4a62-9f8b4bbe8b2a/displayicon.png"
+  },
+  "33183192-4615-e538-d0ad-4682bce10cfe": {
+    "uuid": "33183192-4615-e538-d0ad-4682bce10cfe",
+    "displayName": "K/TAC Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/33183192-4615-e538-d0ad-4682bce10cfe/displayicon.png"
+  },
+  "15031b6f-47f4-d8e5-6025-4fb692c841a1": {
+    "uuid": "15031b6f-47f4-d8e5-6025-4fb692c841a1",
+    "displayName": "Kingdom Logo Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/15031b6f-47f4-d8e5-6025-4fb692c841a1/displayicon.png"
+  },
+  "7c62571f-49ce-2af5-0e0c-f38845168da7": {
+    "uuid": "7c62571f-49ce-2af5-0e0c-f38845168da7",
+    "displayName": "Kitsune Mask Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7c62571f-49ce-2af5-0e0c-f38845168da7/displayicon.png"
+  },
+  "1fb3788c-4a20-1de8-c9a9-0f9987d21f1d": {
+    "uuid": "1fb3788c-4a20-1de8-c9a9-0f9987d21f1d",
+    "displayName": "Neural Pattern Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/1fb3788c-4a20-1de8-c9a9-0f9987d21f1d/displayicon.png"
+  },
+  "25c6099b-411e-573e-673c-b594cba84c10": {
+    "uuid": "25c6099b-411e-573e-673c-b594cba84c10",
+    "displayName": "Perfect Pattern Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/25c6099b-411e-573e-673c-b594cba84c10/displayicon.png"
+  },
+  "28092460-423b-42eb-1709-6b98df39ccac": {
+    "uuid": "28092460-423b-42eb-1709-6b98df39ccac",
+    "displayName": "Bumble Stitch Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/28092460-423b-42eb-1709-6b98df39ccac/displayicon.png"
+  },
+  "e052f69c-48e2-4d3f-6616-6695d419a3e7": {
+    "uuid": "e052f69c-48e2-4d3f-6616-6695d419a3e7",
+    "displayName": "Kohaku & Matsuba Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e052f69c-48e2-4d3f-6616-6695d419a3e7/displayicon.png"
+  },
+  "b4d8dba9-4658-93ae-d972-1283e953c150": {
+    "uuid": "b4d8dba9-4658-93ae-d972-1283e953c150",
+    "displayName": "Miss Spots Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b4d8dba9-4658-93ae-d972-1283e953c150/displayicon.png"
+  },
+  "249a8970-4df0-9db6-4824-1981c4d10a44": {
+    "uuid": "249a8970-4df0-9db6-4824-1981c4d10a44",
+    "displayName": "Lotus Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/249a8970-4df0-9db6-4824-1981c4d10a44/displayicon.png"
+  },
+  "9219f3fa-4c89-7d7d-f2dc-ed8ad3c7bf6e": {
+    "uuid": "9219f3fa-4c89-7d7d-f2dc-ed8ad3c7bf6e",
+    "displayName": "Light Stick Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/9219f3fa-4c89-7d7d-f2dc-ed8ad3c7bf6e/displayicon.png"
+  },
+  "90b6b7eb-4960-5a26-7d49-7cbab0d7cfb2": {
+    "uuid": "90b6b7eb-4960-5a26-7d49-7cbab0d7cfb2",
+    "displayName": "Dance of Luck Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/90b6b7eb-4960-5a26-7d49-7cbab0d7cfb2/displayicon.png"
+  },
+  "89d92aa5-4d95-d65a-c515-a1aee5b64657": {
+    "uuid": "89d92aa5-4d95-d65a-c515-a1aee5b64657",
+    "displayName": "Blush Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/89d92aa5-4d95-d65a-c515-a1aee5b64657/displayicon.png"
+  },
+  "343f1f02-4cf8-271c-9f35-82b9aa06cc0d": {
+    "uuid": "343f1f02-4cf8-271c-9f35-82b9aa06cc0d",
+    "displayName": "Daydreams Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/343f1f02-4cf8-271c-9f35-82b9aa06cc0d/displayicon.png"
+  },
+  "8cb32887-48f3-2dad-d954-38ac7bacf8a9": {
+    "uuid": "8cb32887-48f3-2dad-d954-38ac7bacf8a9",
+    "displayName": "Iridian Thorn Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8cb32887-48f3-2dad-d954-38ac7bacf8a9/displayicon.png"
+  },
+  "9c190c73-4fff-0e1f-8910-4bb993abd90a": {
+    "uuid": "9c190c73-4fff-0e1f-8910-4bb993abd90a",
+    "displayName": "Star Lotus Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/9c190c73-4fff-0e1f-8910-4bb993abd90a/displayicon.png"
+  },
+  "d8c85cae-44fd-8d97-a948-25acfe80b109": {
+    "uuid": "d8c85cae-44fd-8d97-a948-25acfe80b109",
+    "displayName": "GL Have Cat Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d8c85cae-44fd-8d97-a948-25acfe80b109/displayicon.png"
+  },
+  "dee125e1-413c-02c1-7925-b6bd0cc70701": {
+    "uuid": "dee125e1-413c-02c1-7925-b6bd0cc70701",
+    "displayName": "New Year's Knot Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/dee125e1-413c-02c1-7925-b6bd0cc70701/displayicon.png"
+  },
+  "9f6bada3-4911-7863-ff39-6984140e0201": {
+    "uuid": "9f6bada3-4911-7863-ff39-6984140e0201",
+    "displayName": "Celestial Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/9f6bada3-4911-7863-ff39-6984140e0201/displayicon.png"
+  },
+  "7b7d715a-48ff-ce97-4d7f-6cb75d763f7f": {
+    "uuid": "7b7d715a-48ff-ce97-4d7f-6cb75d763f7f",
+    "displayName": "Magepunk Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7b7d715a-48ff-ce97-4d7f-6cb75d763f7f/displayicon.png"
+  },
+  "2d250f34-47d9-58ce-f734-16ae122660c8": {
+    "uuid": "2d250f34-47d9-58ce-f734-16ae122660c8",
+    "displayName": "Magepunk, Ep 6 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/2d250f34-47d9-58ce-f734-16ae122660c8/displayicon.png"
+  },
+  "52f2b3de-4f8d-76ba-3231-ea9cf4a37687": {
+    "uuid": "52f2b3de-4f8d-76ba-3231-ea9cf4a37687",
+    "displayName": "Magic Hummingbird Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/52f2b3de-4f8d-76ba-3231-ea9cf4a37687/displayicon.png"
+  },
+  "f696f391-4b0e-804c-0069-02a0d67dd170": {
+    "uuid": "f696f391-4b0e-804c-0069-02a0d67dd170",
+    "displayName": "Spline Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f696f391-4b0e-804c-0069-02a0d67dd170/displayicon.png"
+  },
+  "7516ebb5-405d-e0ff-0fd9-67b8135b7821": {
+    "uuid": "7516ebb5-405d-e0ff-0fd9-67b8135b7821",
+    "displayName": "On The Case Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7516ebb5-405d-e0ff-0fd9-67b8135b7821/displayicon.png"
+  },
+  "317e8d57-488e-05e5-779b-e98b541220d3": {
+    "uuid": "317e8d57-488e-05e5-779b-e98b541220d3",
+    "displayName": "Magic Mance Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/317e8d57-488e-05e5-779b-e98b541220d3/displayicon.png"
+  },
+  "bbd92afb-4a79-8b18-d723-78a169466703": {
+    "uuid": "bbd92afb-4a79-8b18-d723-78a169466703",
+    "displayName": "Mango Tango Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/bbd92afb-4a79-8b18-d723-78a169466703/displayicon.png"
+  },
+  "ccc4cee6-463d-515c-44cd-46a3207650e2": {
+    "uuid": "ccc4cee6-463d-515c-44cd-46a3207650e2",
+    "displayName": "Aquatica Buddy ",
+    "displayIcon": "https://media.valorant-api.com/buddies/ccc4cee6-463d-515c-44cd-46a3207650e2/displayicon.png"
+  },
+  "c47cc20c-48eb-c5cf-95f5-0bbd1fb641d3": {
+    "uuid": "c47cc20c-48eb-c5cf-95f5-0bbd1fb641d3",
+    "displayName": "Time's Up Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c47cc20c-48eb-c5cf-95f5-0bbd1fb641d3/displayicon.png"
+  },
+  "d12a80c0-44a0-0549-cc1f-eeb83f7ad248": {
+    "uuid": "d12a80c0-44a0-0549-cc1f-eeb83f7ad248",
+    "displayName": "Dallah Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d12a80c0-44a0-0549-cc1f-eeb83f7ad248/displayicon.png"
+  },
+  "fbc2dfb9-4a95-aac5-85e0-69b405302ccf": {
+    "uuid": "fbc2dfb9-4a95-aac5-85e0-69b405302ccf",
+    "displayName": "Mic Drop Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/fbc2dfb9-4a95-aac5-85e0-69b405302ccf/displayicon.png"
+  },
+  "1e0e13ea-46de-7ef6-5303-1fa15632cd0a": {
+    "uuid": "1e0e13ea-46de-7ef6-5303-1fa15632cd0a",
+    "displayName": "Bounce House Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/1e0e13ea-46de-7ef6-5303-1fa15632cd0a/displayicon.png"
+  },
+  "58de9852-48ef-57f8-d6f0-8a885b4c27b0": {
+    "uuid": "58de9852-48ef-57f8-d6f0-8a885b4c27b0",
+    "displayName": "Monkey Business Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/58de9852-48ef-57f8-d6f0-8a885b4c27b0/displayicon.png"
+  },
+  "c907c26b-4d42-d60c-ce3a-06b96f911966": {
+    "uuid": "c907c26b-4d42-d60c-ce3a-06b96f911966",
+    "displayName": "Valiant Hero Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c907c26b-4d42-d60c-ce3a-06b96f911966/displayicon.png"
+  },
+  "3b056085-4578-fc8c-553f-2db7aac380fb": {
+    "uuid": "3b056085-4578-fc8c-553f-2db7aac380fb",
+    "displayName": "Monster Cookie Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/3b056085-4578-fc8c-553f-2db7aac380fb/displayicon.png"
+  },
+  "c35111ab-45e2-df2b-6438-159b81378a04": {
+    "uuid": "c35111ab-45e2-df2b-6438-159b81378a04",
+    "displayName": "Hot and Spicy Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c35111ab-45e2-df2b-6438-159b81378a04/displayicon.png"
+  },
+  "9fda7f76-4134-711d-edb9-e8ad97064f98": {
+    "uuid": "9fda7f76-4134-711d-edb9-e8ad97064f98",
+    "displayName": "Drop the Hammer Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/9fda7f76-4134-711d-edb9-e8ad97064f98/displayicon.png"
+  },
+  "01b8e9e0-4ccb-7603-2bba-b9ba952b0306": {
+    "uuid": "01b8e9e0-4ccb-7603-2bba-b9ba952b0306",
+    "displayName": "Epilogue: Drop the Hammer Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/01b8e9e0-4ccb-7603-2bba-b9ba952b0306/displayicon.png"
+  },
+  "639932bc-4391-ea01-ea96-cd8dcab7088a": {
+    "uuid": "639932bc-4391-ea01-ea96-cd8dcab7088a",
+    "displayName": "Mid-Autumn Sweet Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/639932bc-4391-ea01-ea96-cd8dcab7088a/displayicon.png"
+  },
+  "8b869090-4f20-f809-1932-67909dd92b1f": {
+    "uuid": "8b869090-4f20-f809-1932-67909dd92b1f",
+    "displayName": "Overdrive Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8b869090-4f20-f809-1932-67909dd92b1f/displayicon.png"
+  },
+  "7ef410ea-4c04-8f4e-8a8f-df91c04781e4": {
+    "uuid": "7ef410ea-4c04-8f4e-8a8f-df91c04781e4",
+    "displayName": "Treble Clef Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7ef410ea-4c04-8f4e-8a8f-df91c04781e4/displayicon.png"
+  },
+  "5b9aa7c9-4f6a-28f2-1b81-af94e8158573": {
+    "uuid": "5b9aa7c9-4f6a-28f2-1b81-af94e8158573",
+    "displayName": "Epilogue: Treble Clef Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/5b9aa7c9-4f6a-28f2-1b81-af94e8158573/displayicon.png"
+  },
+  "7d235325-4969-bf8b-fc37-64a4df4397e6": {
+    "uuid": "7d235325-4969-bf8b-fc37-64a4df4397e6",
+    "displayName": "Lightning Kicks Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7d235325-4969-bf8b-fc37-64a4df4397e6/displayicon.png"
+  },
+  "3166a9a9-4778-5003-9dcf-8abfe5341d87": {
+    "uuid": "3166a9a9-4778-5003-9dcf-8abfe5341d87",
+    "displayName": "Matryoshka Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/3166a9a9-4778-5003-9dcf-8abfe5341d87/displayicon.png"
+  },
+  "6e3f8dad-46ca-9f83-1fee-a7a258ff9537": {
+    "uuid": "6e3f8dad-46ca-9f83-1fee-a7a258ff9537",
+    "displayName": "Genesis Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/6e3f8dad-46ca-9f83-1fee-a7a258ff9537/displayicon.png"
+  },
+  "ea9729a1-4c95-4a3b-62c8-1684cdc2568e": {
+    "uuid": "ea9729a1-4c95-4a3b-62c8-1684cdc2568e",
+    "displayName": "Salmon Nigiri Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ea9729a1-4c95-4a3b-62c8-1684cdc2568e/displayicon.png"
+  },
+  "46103935-4de3-15d9-2924-d0a05e5c39b7": {
+    "uuid": "46103935-4de3-15d9-2924-d0a05e5c39b7",
+    "displayName": "Moondash Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/46103935-4de3-15d9-2924-d0a05e5c39b7/displayicon.png"
+  },
+  "f57762a3-423c-70f7-c8d5-14bf97d0093e": {
+    "uuid": "f57762a3-423c-70f7-c8d5-14bf97d0093e",
+    "displayName": "Kuronami Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f57762a3-423c-70f7-c8d5-14bf97d0093e/displayicon.png"
+  },
+  "1f2bf8a7-45a9-9969-7a55-01833ce34fb1": {
+    "uuid": "1f2bf8a7-45a9-9969-7a55-01833ce34fb1",
+    "displayName": "Deadly Precision Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/1f2bf8a7-45a9-9969-7a55-01833ce34fb1/displayicon.png"
+  },
+  "a539f04e-4752-5524-c4a2-ccb4b5ae77c3": {
+    "uuid": "a539f04e-4752-5524-c4a2-ccb4b5ae77c3",
+    "displayName": "Libretto Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/a539f04e-4752-5524-c4a2-ccb4b5ae77c3/displayicon.png"
+  },
+  "2d28fbc9-4518-3432-d90d-de8bba571a93": {
+    "uuid": "2d28fbc9-4518-3432-d90d-de8bba571a93",
+    "displayName": "Ion Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/2d28fbc9-4518-3432-d90d-de8bba571a93/displayicon.png"
+  },
+  "e711c5ad-4f71-ff78-7868-eaa7182265c0": {
+    "uuid": "e711c5ad-4f71-ff78-7868-eaa7182265c0",
+    "displayName": "Ancient Mysteries Revealed Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e711c5ad-4f71-ff78-7868-eaa7182265c0/displayicon.png"
+  },
+  "ac72bb9a-4368-8502-5dac-698d72021c81": {
+    "uuid": "ac72bb9a-4368-8502-5dac-698d72021c81",
+    "displayName": "VALORANT Coin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ac72bb9a-4368-8502-5dac-698d72021c81/displayicon.png"
+  },
+  "57639cf0-4b2f-73f6-5c37-fe816fa560df": {
+    "uuid": "57639cf0-4b2f-73f6-5c37-fe816fa560df",
+    "displayName": "Oni Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/57639cf0-4b2f-73f6-5c37-fe816fa560df/displayicon.png"
+  },
+  "92570000-409d-6deb-e5a6-509ee279c614": {
+    "uuid": "92570000-409d-6deb-e5a6-509ee279c614",
+    "displayName": "Oni, Ep 6 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/92570000-409d-6deb-e5a6-509ee279c614/displayicon.png"
+  },
+  "164a994d-45bf-573a-5322-70b8b1d57887": {
+    "uuid": "164a994d-45bf-573a-5322-70b8b1d57887",
+    "displayName": "Keep it Safe Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/164a994d-45bf-573a-5322-70b8b1d57887/displayicon.png"
+  },
+  "c14745d0-4958-26d9-60e6-7c863080fef1": {
+    "uuid": "c14745d0-4958-26d9-60e6-7c863080fef1",
+    "displayName": "Keep it Safer Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c14745d0-4958-26d9-60e6-7c863080fef1/displayicon.png"
+  },
+  "bc76826c-4ac3-5c94-11af-1fb97ba3a835": {
+    "uuid": "bc76826c-4ac3-5c94-11af-1fb97ba3a835",
+    "displayName": "Venom Vial Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/bc76826c-4ac3-5c94-11af-1fb97ba3a835/displayicon.png"
+  },
+  "21c8115e-498f-cd9f-2bd8-34981f8cfd11": {
+    "uuid": "21c8115e-498f-cd9f-2bd8-34981f8cfd11",
+    "displayName": "Folded Wish Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/21c8115e-498f-cd9f-2bd8-34981f8cfd11/displayicon.png"
+  },
+  "1f9b0c32-405a-aae2-f291-20a752de92e0": {
+    "uuid": "1f9b0c32-405a-aae2-f291-20a752de92e0",
+    "displayName": "Epilogue: Folded Wish Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/1f9b0c32-405a-aae2-f291-20a752de92e0/displayicon.png"
+  },
+  "a8ceeabc-4dd8-44df-d90e-8dbbbd36f2a5": {
+    "uuid": "a8ceeabc-4dd8-44df-d90e-8dbbbd36f2a5",
+    "displayName": "Peace and Love Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/a8ceeabc-4dd8-44df-d90e-8dbbbd36f2a5/displayicon.png"
+  },
+  "9deb35d4-4128-4df2-8624-da89b30b1bc3": {
+    "uuid": "9deb35d4-4128-4df2-8624-da89b30b1bc3",
+    "displayName": "Mother of Pearl Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/9deb35d4-4128-4df2-8624-da89b30b1bc3/displayicon.png"
+  },
+  "bd57203c-45d3-e5c0-7c61-6793f368de1a": {
+    "uuid": "bd57203c-45d3-e5c0-7c61-6793f368de1a",
+    "displayName": "Dan the Penguin Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/bd57203c-45d3-e5c0-7c61-6793f368de1a/displayicon.png"
+  },
+  "b9feb6b6-493c-b76e-ce8e-6fb371ca2cf5": {
+    "uuid": "b9feb6b6-493c-b76e-ce8e-6fb371ca2cf5",
+    "displayName": "Hot Bling Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b9feb6b6-493c-b76e-ce8e-6fb371ca2cf5/displayicon.png"
+  },
+  "9e601160-4679-d2df-261b-56a398248271": {
+    "uuid": "9e601160-4679-d2df-261b-56a398248271",
+    "displayName": "High Top Heat Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/9e601160-4679-d2df-261b-56a398248271/displayicon.png"
+  },
+  "022534ce-41f1-c4f9-b953-2e9f19e82e24": {
+    "uuid": "022534ce-41f1-c4f9-b953-2e9f19e82e24",
+    "displayName": "Can't Break Me Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/022534ce-41f1-c4f9-b953-2e9f19e82e24/displayicon.png"
+  },
+  "bb055b92-4c24-4556-2e03-28a47b31e225": {
+    "uuid": "bb055b92-4c24-4556-2e03-28a47b31e225",
+    "displayName": "Ping Pong Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/bb055b92-4c24-4556-2e03-28a47b31e225/displayicon.png"
+  },
+  "5fd3f15f-419b-0225-c0c8-b7bc555b447e": {
+    "uuid": "5fd3f15f-419b-0225-c0c8-b7bc555b447e",
+    "displayName": "Hue Shift Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/5fd3f15f-419b-0225-c0c8-b7bc555b447e/displayicon.png"
+  },
+  "b5d5b1f3-40a2-07dc-f111-3aa87c596d7c": {
+    "uuid": "b5d5b1f3-40a2-07dc-f111-3aa87c596d7c",
+    "displayName": "Old Salt Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b5d5b1f3-40a2-07dc-f111-3aa87c596d7c/displayicon.png"
+  },
+  "86e61d30-4f29-ef14-e880-ef89f53eff09": {
+    "uuid": "86e61d30-4f29-ef14-e880-ef89f53eff09",
+    "displayName": "Pocket Sage Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/86e61d30-4f29-ef14-e880-ef89f53eff09/displayicon.png"
+  },
+  "15bc068c-4b1e-dfbc-cfbb-9283a8d0e0ee": {
+    "uuid": "15bc068c-4b1e-dfbc-cfbb-9283a8d0e0ee",
+    "displayName": "Pizza Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/15bc068c-4b1e-dfbc-cfbb-9283a8d0e0ee/displayicon.png"
+  },
+  "1cfa4641-4c44-4067-236c-f7be07d6ded7": {
+    "uuid": "1cfa4641-4c44-4067-236c-f7be07d6ded7",
+    "displayName": "Magepunk, Ep 3 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/1cfa4641-4c44-4067-236c-f7be07d6ded7/displayicon.png"
+  },
+  "8bb77c22-4f90-ec3e-a2f7-16a2ddb064b2": {
+    "uuid": "8bb77c22-4f90-ec3e-a2f7-16a2ddb064b2",
+    "displayName": "POLYfox Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8bb77c22-4f90-ec3e-a2f7-16a2ddb064b2/displayicon.png"
+  },
+  "9930bb0d-449e-d786-df6f-2bb97795edec": {
+    "uuid": "9930bb0d-449e-d786-df6f-2bb97795edec",
+    "displayName": "Rubber Ducky Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/9930bb0d-449e-d786-df6f-2bb97795edec/displayicon.png"
+  },
+  "3275436e-4b32-5d1f-6056-2d80132c88f8": {
+    "uuid": "3275436e-4b32-5d1f-6056-2d80132c88f8",
+    "displayName": "Artisan Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/3275436e-4b32-5d1f-6056-2d80132c88f8/displayicon.png"
+  },
+  "f2b96400-4663-c2cf-699d-029e8b52836f": {
+    "uuid": "f2b96400-4663-c2cf-699d-029e8b52836f",
+    "displayName": "Take on the Tundra Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f2b96400-4663-c2cf-699d-029e8b52836f/displayicon.png"
+  },
+  "b13a445f-4ff4-fd0e-01fa-c786e00e1bdb": {
+    "uuid": "b13a445f-4ff4-fd0e-01fa-c786e00e1bdb",
+    "displayName": "PREMIER E7A3 CHAMPION // ADV BUDDY",
+    "displayIcon": "https://media.valorant-api.com/buddies/b13a445f-4ff4-fd0e-01fa-c786e00e1bdb/displayicon.png"
+  },
+  "deed2aa7-4466-4df9-3fd8-edb372871d51": {
+    "uuid": "deed2aa7-4466-4df9-3fd8-edb372871d51",
+    "displayName": "PREMIER E7A3 CHAMPION // CTD BUDDY",
+    "displayIcon": "https://media.valorant-api.com/buddies/deed2aa7-4466-4df9-3fd8-edb372871d51/displayicon.png"
+  },
+  "a8834ead-4bba-4405-40ec-40b7c7d8d8e4": {
+    "uuid": "a8834ead-4bba-4405-40ec-40b7c7d8d8e4",
+    "displayName": "PREMIER E7A3 CHAMPION // ELT BUDDY ",
+    "displayIcon": "https://media.valorant-api.com/buddies/a8834ead-4bba-4405-40ec-40b7c7d8d8e4/displayicon.png"
+  },
+  "68f6dbbb-422b-428b-9ef0-3d926312e7cb": {
+    "uuid": "68f6dbbb-422b-428b-9ef0-3d926312e7cb",
+    "displayName": "PREMIER E7A3 CHAMPION // INT BUDDY",
+    "displayIcon": "https://media.valorant-api.com/buddies/68f6dbbb-422b-428b-9ef0-3d926312e7cb/displayicon.png"
+  },
+  "46473ed2-4e80-0066-4a0d-a9b7905d93fa": {
+    "uuid": "46473ed2-4e80-0066-4a0d-a9b7905d93fa",
+    "displayName": "PREMIER E7A3 CHAMPION // OPN BUDDY",
+    "displayIcon": "https://media.valorant-api.com/buddies/46473ed2-4e80-0066-4a0d-a9b7905d93fa/displayicon.png"
+  },
+  "8d6f45c8-4031-7104-6079-1f934c30917e": {
+    "uuid": "8d6f45c8-4031-7104-6079-1f934c30917e",
+    "displayName": "Premier Launch Champion // Adv Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8d6f45c8-4031-7104-6079-1f934c30917e/displayicon.png"
+  },
+  "ffde61af-4686-0d77-11c2-9ea357381b87": {
+    "uuid": "ffde61af-4686-0d77-11c2-9ea357381b87",
+    "displayName": "Premier Launch Champion // Ctd Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ffde61af-4686-0d77-11c2-9ea357381b87/displayicon.png"
+  },
+  "a1bc1340-4884-7eb2-ceeb-aebea6ff5e3b": {
+    "uuid": "a1bc1340-4884-7eb2-ceeb-aebea6ff5e3b",
+    "displayName": "Premier Launch Champion // Elt Buddy ",
+    "displayIcon": "https://media.valorant-api.com/buddies/a1bc1340-4884-7eb2-ceeb-aebea6ff5e3b/displayicon.png"
+  },
+  "8ef76df3-4f31-4a8b-534b-b29be6f68bed": {
+    "uuid": "8ef76df3-4f31-4a8b-534b-b29be6f68bed",
+    "displayName": "Premier Launch Champion // Int Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8ef76df3-4f31-4a8b-534b-b29be6f68bed/displayicon.png"
+  },
+  "d3a6c031-4090-e50e-03a4-b2b4afbf141e": {
+    "uuid": "d3a6c031-4090-e50e-03a4-b2b4afbf141e",
+    "displayName": "Premier Launch Champion // Opn Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d3a6c031-4090-e50e-03a4-b2b4afbf141e/displayicon.png"
+  },
+  "a8a6021c-4493-cbc6-9cfa-ac9ca031f3bc": {
+    "uuid": "a8a6021c-4493-cbc6-9cfa-ac9ca031f3bc",
+    "displayName": "PREMIER E8A1 CHAMPION // ADV Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/a8a6021c-4493-cbc6-9cfa-ac9ca031f3bc/displayicon.png"
+  },
+  "29f7c439-4b84-3d30-c681-8f800a148861": {
+    "uuid": "29f7c439-4b84-3d30-c681-8f800a148861",
+    "displayName": "PREMIER E8A1 CHAMPION // CTD Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/29f7c439-4b84-3d30-c681-8f800a148861/displayicon.png"
+  },
+  "2765239c-4631-91c9-a280-329b7372cf72": {
+    "uuid": "2765239c-4631-91c9-a280-329b7372cf72",
+    "displayName": "PREMIER E8A1 CHAMPION // ELT Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/2765239c-4631-91c9-a280-329b7372cf72/displayicon.png"
+  },
+  "10bbe741-406b-b296-fedd-ac90a97a93b3": {
+    "uuid": "10bbe741-406b-b296-fedd-ac90a97a93b3",
+    "displayName": "PREMIER E8A1 CHAMPION // INT Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/10bbe741-406b-b296-fedd-ac90a97a93b3/displayicon.png"
+  },
+  "6c00072d-448b-c0d7-1121-5f89153815e5": {
+    "uuid": "6c00072d-448b-c0d7-1121-5f89153815e5",
+    "displayName": "PREMIER E8A1 CHAMPION // OPN Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/6c00072d-448b-c0d7-1121-5f89153815e5/displayicon.png"
+  },
+  "de4f0b5c-4a1b-997b-22c9-1ea6f566df26": {
+    "uuid": "de4f0b5c-4a1b-997b-22c9-1ea6f566df26",
+    "displayName": "PREMIER E8A2 CHAMPION // ADV Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/de4f0b5c-4a1b-997b-22c9-1ea6f566df26/displayicon.png"
+  },
+  "c9254eb9-43bf-a14c-dd5d-8db3e5f50093": {
+    "uuid": "c9254eb9-43bf-a14c-dd5d-8db3e5f50093",
+    "displayName": "PREMIER E8A2 CHAMPION // CTD Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c9254eb9-43bf-a14c-dd5d-8db3e5f50093/displayicon.png"
+  },
+  "7eafd5eb-40ea-9980-25f4-6d85eb9fd0ef": {
+    "uuid": "7eafd5eb-40ea-9980-25f4-6d85eb9fd0ef",
+    "displayName": "PREMIER E8A2 CHAMPION // ELT Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7eafd5eb-40ea-9980-25f4-6d85eb9fd0ef/displayicon.png"
+  },
+  "218995b2-4033-e9a6-1fa0-92b7bc15d84f": {
+    "uuid": "218995b2-4033-e9a6-1fa0-92b7bc15d84f",
+    "displayName": "PREMIER E8A2 CHAMPION // INT Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/218995b2-4033-e9a6-1fa0-92b7bc15d84f/displayicon.png"
+  },
+  "e14ef133-4f69-dc7b-0072-c9ac38cc2726": {
+    "uuid": "e14ef133-4f69-dc7b-0072-c9ac38cc2726",
+    "displayName": "PREMIER E8A2 CHAMPION // OPN Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e14ef133-4f69-dc7b-0072-c9ac38cc2726/displayicon.png"
+  },
+  "839c6e7d-4821-157b-fd38-71b3debc874f": {
+    "uuid": "839c6e7d-4821-157b-fd38-71b3debc874f",
+    "displayName": "Pay Respects Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/839c6e7d-4821-157b-fd38-71b3debc874f/displayicon.png"
+  },
+  "ce82d434-477f-43a3-963b-95b6657c46b6": {
+    "uuid": "ce82d434-477f-43a3-963b-95b6657c46b6",
+    "displayName": "One Direction Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ce82d434-477f-43a3-963b-95b6657c46b6/displayicon.png"
+  },
+  "516057a3-4e34-98a0-7265-938acb511f41": {
+    "uuid": "516057a3-4e34-98a0-7265-938acb511f41",
+    "displayName": "Twisted Treat Buddy ",
+    "displayIcon": "https://media.valorant-api.com/buddies/516057a3-4e34-98a0-7265-938acb511f41/displayicon.png"
+  },
+  "44725e0f-4313-3540-4fa9-5b926f4e568b": {
+    "uuid": "44725e0f-4313-3540-4fa9-5b926f4e568b",
+    "displayName": "Epilogue: Twisted Treat Buddy ",
+    "displayIcon": "https://media.valorant-api.com/buddies/44725e0f-4313-3540-4fa9-5b926f4e568b/displayicon.png"
+  },
+  "2e7eaec5-4acd-6d51-4e73-a9bb30450480": {
+    "uuid": "2e7eaec5-4acd-6d51-4e73-a9bb30450480",
+    "displayName": "Pride Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/2e7eaec5-4acd-6d51-4e73-a9bb30450480/displayicon.png"
+  },
+  "20973353-44a5-cc50-4bb0-dcb8a2ac4b47": {
+    "uuid": "20973353-44a5-cc50-4bb0-dcb8a2ac4b47",
+    "displayName": "Bear Hug Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/20973353-44a5-cc50-4bb0-dcb8a2ac4b47/displayicon.png"
+  },
+  "c628b79a-494b-fa32-fd4d-91bfe0b6206a": {
+    "uuid": "c628b79a-494b-fa32-fd4d-91bfe0b6206a",
+    "displayName": "Protocol 781-A Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c628b79a-494b-fa32-fd4d-91bfe0b6206a/displayicon.png"
+  },
+  "769ab062-4483-d3ba-659d-50b6c36b1ad2": {
+    "uuid": "769ab062-4483-d3ba-659d-50b6c36b1ad2",
+    "displayName": "Original Protractor Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/769ab062-4483-d3ba-659d-50b6c36b1ad2/displayicon.png"
+  },
+  "42cb4b6a-45e3-8a83-2f52-0d90c7ca306d": {
+    "uuid": "42cb4b6a-45e3-8a83-2f52-0d90c7ca306d",
+    "displayName": "Lovebyte Gun Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/42cb4b6a-45e3-8a83-2f52-0d90c7ca306d/displayicon.png"
+  },
+  "be53b9d4-41de-3917-8f43-e58024a6e0de": {
+    "uuid": "be53b9d4-41de-3917-8f43-e58024a6e0de",
+    "displayName": "Lucky Rabbit Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/be53b9d4-41de-3917-8f43-e58024a6e0de/displayicon.png"
+  },
+  "abfe3887-40f8-d3c1-08bb-ab89dae2a399": {
+    "uuid": "abfe3887-40f8-d3c1-08bb-ab89dae2a399",
+    "displayName": "Radianite Crystal Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/abfe3887-40f8-d3c1-08bb-ab89dae2a399/displayicon.png"
+  },
+  "f74a52a2-4882-ee22-a26b-b0be558a6ced": {
+    "uuid": "f74a52a2-4882-ee22-a26b-b0be558a6ced",
+    "displayName": "Late Night Calories Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f74a52a2-4882-ee22-a26b-b0be558a6ced/displayicon.png"
+  },
+  "91697361-47ed-cc36-7c12-beb1d88c8631": {
+    "uuid": "91697361-47ed-cc36-7c12-beb1d88c8631",
+    "displayName": "EP1: Bronze Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/91697361-47ed-cc36-7c12-beb1d88c8631/displayicon.png"
+  },
+  "820b4f0c-4d1f-bb6a-397a-7b9f4b48fff9": {
+    "uuid": "820b4f0c-4d1f-bb6a-397a-7b9f4b48fff9",
+    "displayName": "EP1: Diamond Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/820b4f0c-4d1f-bb6a-397a-7b9f4b48fff9/displayicon.png"
+  },
+  "e2a83cb9-4168-4e3a-4023-2da045cd4cb3": {
+    "uuid": "e2a83cb9-4168-4e3a-4023-2da045cd4cb3",
+    "displayName": "EP1: Gold Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e2a83cb9-4168-4e3a-4023-2da045cd4cb3/displayicon.png"
+  },
+  "59631503-4448-3448-c650-4cbc9470266f": {
+    "uuid": "59631503-4448-3448-c650-4cbc9470266f",
+    "displayName": "EP1: Immortal Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/59631503-4448-3448-c650-4cbc9470266f/displayicon.png"
+  },
+  "a749e586-440a-4085-a020-cbb03612053d": {
+    "uuid": "a749e586-440a-4085-a020-cbb03612053d",
+    "displayName": "EP1: Iron Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/a749e586-440a-4085-a020-cbb03612053d/displayicon.png"
+  },
+  "28b6dc7e-46a0-0baa-01fa-318e6c0d9f08": {
+    "uuid": "28b6dc7e-46a0-0baa-01fa-318e6c0d9f08",
+    "displayName": "EP1: Platinum Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/28b6dc7e-46a0-0baa-01fa-318e6c0d9f08/displayicon.png"
+  },
+  "6fd8192b-4045-a7c2-057f-6180c39b2545": {
+    "uuid": "6fd8192b-4045-a7c2-057f-6180c39b2545",
+    "displayName": "EP1: Radiant Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/6fd8192b-4045-a7c2-057f-6180c39b2545/displayicon.png"
+  },
+  "f37c078d-4505-e27a-d3f4-77b15795bd32": {
+    "uuid": "f37c078d-4505-e27a-d3f4-77b15795bd32",
+    "displayName": "EP1: Silver Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f37c078d-4505-e27a-d3f4-77b15795bd32/displayicon.png"
+  },
+  "2825a739-4ba5-bd24-db75-b2b3ee7e11a9": {
+    "uuid": "2825a739-4ba5-bd24-db75-b2b3ee7e11a9",
+    "displayName": "EP2: Bronze Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/2825a739-4ba5-bd24-db75-b2b3ee7e11a9/displayicon.png"
+  },
+  "ccad7ab2-452f-1a82-4051-44ad305d0bee": {
+    "uuid": "ccad7ab2-452f-1a82-4051-44ad305d0bee",
+    "displayName": "EP2: Diamond Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ccad7ab2-452f-1a82-4051-44ad305d0bee/displayicon.png"
+  },
+  "f7bcb3d2-4590-a6fa-ec31-6e855d0e256f": {
+    "uuid": "f7bcb3d2-4590-a6fa-ec31-6e855d0e256f",
+    "displayName": "EP2: Gold Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f7bcb3d2-4590-a6fa-ec31-6e855d0e256f/displayicon.png"
+  },
+  "753e0c8a-4002-08e3-12e8-1e99fd7656d6": {
+    "uuid": "753e0c8a-4002-08e3-12e8-1e99fd7656d6",
+    "displayName": "EP2: Immortal Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/753e0c8a-4002-08e3-12e8-1e99fd7656d6/displayicon.png"
+  },
+  "7dce8de5-43d7-1b89-080b-209343ce2dcd": {
+    "uuid": "7dce8de5-43d7-1b89-080b-209343ce2dcd",
+    "displayName": "EP2: Iron Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7dce8de5-43d7-1b89-080b-209343ce2dcd/displayicon.png"
+  },
+  "3ef28323-4d62-df8a-2fc0-22b900b5b723": {
+    "uuid": "3ef28323-4d62-df8a-2fc0-22b900b5b723",
+    "displayName": "EP2: Platinum Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/3ef28323-4d62-df8a-2fc0-22b900b5b723/displayicon.png"
+  },
+  "a0d5de55-4f72-f0cf-046f-d8a872f631b3": {
+    "uuid": "a0d5de55-4f72-f0cf-046f-d8a872f631b3",
+    "displayName": "EP2: Radiant Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/a0d5de55-4f72-f0cf-046f-d8a872f631b3/displayicon.png"
+  },
+  "8112cef9-4cbe-d544-4e2b-b1b7716567be": {
+    "uuid": "8112cef9-4cbe-d544-4e2b-b1b7716567be",
+    "displayName": "EP2: Silver Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8112cef9-4cbe-d544-4e2b-b1b7716567be/displayicon.png"
+  },
+  "c9317804-42cb-b562-db55-b19a5dbd2eab": {
+    "uuid": "c9317804-42cb-b562-db55-b19a5dbd2eab",
+    "displayName": "EP3: Bronze Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c9317804-42cb-b562-db55-b19a5dbd2eab/displayicon.png"
+  },
+  "5cff6df3-4533-13ba-9e19-2497f52f6a02": {
+    "uuid": "5cff6df3-4533-13ba-9e19-2497f52f6a02",
+    "displayName": "EP3: Diamond Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/5cff6df3-4533-13ba-9e19-2497f52f6a02/displayicon.png"
+  },
+  "9ad5d678-44bb-f744-2f95-9dbbe0ff726c": {
+    "uuid": "9ad5d678-44bb-f744-2f95-9dbbe0ff726c",
+    "displayName": "EP3: Gold Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/9ad5d678-44bb-f744-2f95-9dbbe0ff726c/displayicon.png"
+  },
+  "9355d5a7-4780-0e0e-d9bd-b686a5ca4dbb": {
+    "uuid": "9355d5a7-4780-0e0e-d9bd-b686a5ca4dbb",
+    "displayName": "EP3: Immortal Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/9355d5a7-4780-0e0e-d9bd-b686a5ca4dbb/displayicon.png"
+  },
+  "70d29741-4803-474c-7304-e39328765537": {
+    "uuid": "70d29741-4803-474c-7304-e39328765537",
+    "displayName": "EP3: Iron Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/70d29741-4803-474c-7304-e39328765537/displayicon.png"
+  },
+  "0c2f2e15-49e5-dd25-91c9-59b7f5235097": {
+    "uuid": "0c2f2e15-49e5-dd25-91c9-59b7f5235097",
+    "displayName": "EP3: Platinum Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/0c2f2e15-49e5-dd25-91c9-59b7f5235097/displayicon.png"
+  },
+  "46d903ab-463a-51c3-43d6-0b819579c32f": {
+    "uuid": "46d903ab-463a-51c3-43d6-0b819579c32f",
+    "displayName": "EP3: Radiant Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/46d903ab-463a-51c3-43d6-0b819579c32f/displayicon.png"
+  },
+  "7ab11a34-4aff-7865-03a5-859f6aa20baa": {
+    "uuid": "7ab11a34-4aff-7865-03a5-859f6aa20baa",
+    "displayName": "EP3: Silver Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7ab11a34-4aff-7865-03a5-859f6aa20baa/displayicon.png"
+  },
+  "d9cf24f9-4c6d-6a49-64aa-f5b50ff33c19": {
+    "uuid": "d9cf24f9-4c6d-6a49-64aa-f5b50ff33c19",
+    "displayName": "EP4: Bronze Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d9cf24f9-4c6d-6a49-64aa-f5b50ff33c19/displayicon.png"
+  },
+  "32b58808-44d7-f5ef-2ef9-0ca94811d93d": {
+    "uuid": "32b58808-44d7-f5ef-2ef9-0ca94811d93d",
+    "displayName": "EP4: Diamond Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/32b58808-44d7-f5ef-2ef9-0ca94811d93d/displayicon.png"
+  },
+  "b79f550b-4975-90eb-8a23-ff81fba168f1": {
+    "uuid": "b79f550b-4975-90eb-8a23-ff81fba168f1",
+    "displayName": "EP4: Gold Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b79f550b-4975-90eb-8a23-ff81fba168f1/displayicon.png"
+  },
+  "99468b53-43cf-b7bf-cf3c-038df2a78d43": {
+    "uuid": "99468b53-43cf-b7bf-cf3c-038df2a78d43",
+    "displayName": "EP4: Immortal Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/99468b53-43cf-b7bf-cf3c-038df2a78d43/displayicon.png"
+  },
+  "9d205346-4000-57bf-b1f8-afbd166686b9": {
+    "uuid": "9d205346-4000-57bf-b1f8-afbd166686b9",
+    "displayName": "EP4: Iron Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/9d205346-4000-57bf-b1f8-afbd166686b9/displayicon.png"
+  },
+  "40351644-4a14-7859-d9bb-1ea9d8599d84": {
+    "uuid": "40351644-4a14-7859-d9bb-1ea9d8599d84",
+    "displayName": "EP4: Platinum Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/40351644-4a14-7859-d9bb-1ea9d8599d84/displayicon.png"
+  },
+  "9d803f91-483f-eefb-eddc-bbb0283a2b5e": {
+    "uuid": "9d803f91-483f-eefb-eddc-bbb0283a2b5e",
+    "displayName": "EP4: Radiant Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/9d803f91-483f-eefb-eddc-bbb0283a2b5e/displayicon.png"
+  },
+  "85a9ad0f-4a3b-e748-d8d5-68b9c66f3d8d": {
+    "uuid": "85a9ad0f-4a3b-e748-d8d5-68b9c66f3d8d",
+    "displayName": "EP4: Silver Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/85a9ad0f-4a3b-e748-d8d5-68b9c66f3d8d/displayicon.png"
+  },
+  "31a4697b-48d3-81b2-c837-6a867850d1ad": {
+    "uuid": "31a4697b-48d3-81b2-c837-6a867850d1ad",
+    "displayName": "EP5: Ascendant Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/31a4697b-48d3-81b2-c837-6a867850d1ad/displayicon.png"
+  },
+  "212336fb-4b9d-373d-b22a-f7a6918311cd": {
+    "uuid": "212336fb-4b9d-373d-b22a-f7a6918311cd",
+    "displayName": "EP5: Bronze Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/212336fb-4b9d-373d-b22a-f7a6918311cd/displayicon.png"
+  },
+  "6f4eb766-4542-c53c-e1ee-709befc45db0": {
+    "uuid": "6f4eb766-4542-c53c-e1ee-709befc45db0",
+    "displayName": "EP5: Diamond Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/6f4eb766-4542-c53c-e1ee-709befc45db0/displayicon.png"
+  },
+  "35dfad07-4785-3baf-eb33-2fa29d705344": {
+    "uuid": "35dfad07-4785-3baf-eb33-2fa29d705344",
+    "displayName": "EP5: Gold Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/35dfad07-4785-3baf-eb33-2fa29d705344/displayicon.png"
+  },
+  "0ba8f675-4ce0-fabb-f97b-729b2153be05": {
+    "uuid": "0ba8f675-4ce0-fabb-f97b-729b2153be05",
+    "displayName": "EP5: Immortal Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/0ba8f675-4ce0-fabb-f97b-729b2153be05/displayicon.png"
+  },
+  "1e92f619-40a0-b1f6-4460-6f8017b3f43a": {
+    "uuid": "1e92f619-40a0-b1f6-4460-6f8017b3f43a",
+    "displayName": "EP5: Iron Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/1e92f619-40a0-b1f6-4460-6f8017b3f43a/displayicon.png"
+  },
+  "70b6a860-4dc1-cd58-cb5e-9886179ded55": {
+    "uuid": "70b6a860-4dc1-cd58-cb5e-9886179ded55",
+    "displayName": "EP5: Platinum Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/70b6a860-4dc1-cd58-cb5e-9886179ded55/displayicon.png"
+  },
+  "e8811812-495f-5929-b155-6d9e4f33b63d": {
+    "uuid": "e8811812-495f-5929-b155-6d9e4f33b63d",
+    "displayName": "EP5: Radiant Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e8811812-495f-5929-b155-6d9e4f33b63d/displayicon.png"
+  },
+  "87467d06-4508-be0b-821f-ebb2accf933b": {
+    "uuid": "87467d06-4508-be0b-821f-ebb2accf933b",
+    "displayName": "EP5: Silver Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/87467d06-4508-be0b-821f-ebb2accf933b/displayicon.png"
+  },
+  "623cdfdb-4928-2ae5-614c-8babb10e1c80": {
+    "uuid": "623cdfdb-4928-2ae5-614c-8babb10e1c80",
+    "displayName": "EP6: Ascendant Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/623cdfdb-4928-2ae5-614c-8babb10e1c80/displayicon.png"
+  },
+  "e82c8e05-4d33-3c2b-e930-debc81d34a29": {
+    "uuid": "e82c8e05-4d33-3c2b-e930-debc81d34a29",
+    "displayName": "EP6: Bronze Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e82c8e05-4d33-3c2b-e930-debc81d34a29/displayicon.png"
+  },
+  "ba6c7a2b-405d-776e-0750-9a9c97703ffa": {
+    "uuid": "ba6c7a2b-405d-776e-0750-9a9c97703ffa",
+    "displayName": "EP6: Diamond Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ba6c7a2b-405d-776e-0750-9a9c97703ffa/displayicon.png"
+  },
+  "7dea59f7-4d88-4c9b-e3ee-d4ad0c334760": {
+    "uuid": "7dea59f7-4d88-4c9b-e3ee-d4ad0c334760",
+    "displayName": "EP6: Gold Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7dea59f7-4d88-4c9b-e3ee-d4ad0c334760/displayicon.png"
+  },
+  "675e1e1d-433a-ec48-1582-96ad0f830d76": {
+    "uuid": "675e1e1d-433a-ec48-1582-96ad0f830d76",
+    "displayName": "EP6: Immortal Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/675e1e1d-433a-ec48-1582-96ad0f830d76/displayicon.png"
+  },
+  "59c6b549-4327-6755-0cb2-40af28d47313": {
+    "uuid": "59c6b549-4327-6755-0cb2-40af28d47313",
+    "displayName": "EP6: Iron Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/59c6b549-4327-6755-0cb2-40af28d47313/displayicon.png"
+  },
+  "299c52e2-4e57-8ef1-4783-9cbc82504fa3": {
+    "uuid": "299c52e2-4e57-8ef1-4783-9cbc82504fa3",
+    "displayName": "EP6: Platinum Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/299c52e2-4e57-8ef1-4783-9cbc82504fa3/displayicon.png"
+  },
+  "a518656d-4ce2-b818-e6c9-91a9a96e78e7": {
+    "uuid": "a518656d-4ce2-b818-e6c9-91a9a96e78e7",
+    "displayName": "EP6: Radiant Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/a518656d-4ce2-b818-e6c9-91a9a96e78e7/displayicon.png"
+  },
+  "cf881b03-4f5d-307a-23eb-eebc254e3dc3": {
+    "uuid": "cf881b03-4f5d-307a-23eb-eebc254e3dc3",
+    "displayName": "EP6: Silver Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/cf881b03-4f5d-307a-23eb-eebc254e3dc3/displayicon.png"
+  },
+  "71d922b1-43b0-af0e-89e3-4aa3ac55ae0f": {
+    "uuid": "71d922b1-43b0-af0e-89e3-4aa3ac55ae0f",
+    "displayName": "EP7: Ascendant Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/71d922b1-43b0-af0e-89e3-4aa3ac55ae0f/displayicon.png"
+  },
+  "7a839c2b-4f5b-1d6f-e40f-df9c4abf4c16": {
+    "uuid": "7a839c2b-4f5b-1d6f-e40f-df9c4abf4c16",
+    "displayName": "EP7: Bronze Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7a839c2b-4f5b-1d6f-e40f-df9c4abf4c16/displayicon.png"
+  },
+  "e9795982-4878-4c15-f448-7dbd83ea432a": {
+    "uuid": "e9795982-4878-4c15-f448-7dbd83ea432a",
+    "displayName": "EP7: Diamond Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e9795982-4878-4c15-f448-7dbd83ea432a/displayicon.png"
+  },
+  "8ca0dc82-49b7-a6c0-2036-868d820a6c12": {
+    "uuid": "8ca0dc82-49b7-a6c0-2036-868d820a6c12",
+    "displayName": "EP7: Gold Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8ca0dc82-49b7-a6c0-2036-868d820a6c12/displayicon.png"
+  },
+  "5150e1c4-4b18-12ec-d520-d498db81a61b": {
+    "uuid": "5150e1c4-4b18-12ec-d520-d498db81a61b",
+    "displayName": "EP7: Immortal Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/5150e1c4-4b18-12ec-d520-d498db81a61b/displayicon.png"
+  },
+  "68e21f22-4c1c-d2f2-91a7-9090d34a818b": {
+    "uuid": "68e21f22-4c1c-d2f2-91a7-9090d34a818b",
+    "displayName": "EP7: Iron Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/68e21f22-4c1c-d2f2-91a7-9090d34a818b/displayicon.png"
+  },
+  "60ea5778-480c-a4a8-e36a-858f67fb63db": {
+    "uuid": "60ea5778-480c-a4a8-e36a-858f67fb63db",
+    "displayName": "EP7: Platinum Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/60ea5778-480c-a4a8-e36a-858f67fb63db/displayicon.png"
+  },
+  "02931851-4925-d4a4-0eb7-3b91adb411b9": {
+    "uuid": "02931851-4925-d4a4-0eb7-3b91adb411b9",
+    "displayName": "EP7: Radiant Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/02931851-4925-d4a4-0eb7-3b91adb411b9/displayicon.png"
+  },
+  "68178772-4fff-7ec7-07f5-378488810a08": {
+    "uuid": "68178772-4fff-7ec7-07f5-378488810a08",
+    "displayName": "EP7: Silver Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/68178772-4fff-7ec7-07f5-378488810a08/displayicon.png"
+  },
+  "90356707-45e1-5d0b-2b34-2d9aadf78b4e": {
+    "uuid": "90356707-45e1-5d0b-2b34-2d9aadf78b4e",
+    "displayName": "Gravitational Uranium Neuroblaster Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/90356707-45e1-5d0b-2b34-2d9aadf78b4e/displayicon.png"
+  },
+  "759b4a69-4742-cdf9-4211-4c867cdcabd7": {
+    "uuid": "759b4a69-4742-cdf9-4211-4c867cdcabd7",
+    "displayName": "Slay Ride Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/759b4a69-4742-cdf9-4211-4c867cdcabd7/displayicon.png"
+  },
+  "304808a0-425b-452d-cf63-3abd74138964": {
+    "uuid": "304808a0-425b-452d-cf63-3abd74138964",
+    "displayName": "Panoramic Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/304808a0-425b-452d-cf63-3abd74138964/displayicon.png"
+  },
+  "a1907073-46c5-6a62-17bb-a186d437a728": {
+    "uuid": "a1907073-46c5-6a62-17bb-a186d437a728",
+    "displayName": "Stardust Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/a1907073-46c5-6a62-17bb-a186d437a728/displayicon.png"
+  },
+  "473cd7c2-4c12-9289-3a5a-949f4ea3b06c": {
+    "uuid": "473cd7c2-4c12-9289-3a5a-949f4ea3b06c",
+    "displayName": "Robotic Companion Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/473cd7c2-4c12-9289-3a5a-949f4ea3b06c/displayicon.png"
+  },
+  "7c80cd43-4f82-5d07-c8cf-aa82fada4e2d": {
+    "uuid": "7c80cd43-4f82-5d07-c8cf-aa82fada4e2d",
+    "displayName": "Mini Mecha Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7c80cd43-4f82-5d07-c8cf-aa82fada4e2d/displayicon.png"
+  },
+  "54013952-46e2-183a-c278-29ac484bf097": {
+    "uuid": "54013952-46e2-183a-c278-29ac484bf097",
+    "displayName": "Epilogue: Mini Mecha Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/54013952-46e2-183a-c278-29ac484bf097/displayicon.png"
+  },
+  "9b0e438c-4fd0-64bd-7056-00bf5460b244": {
+    "uuid": "9b0e438c-4fd0-64bd-7056-00bf5460b244",
+    "displayName": "Flash Blades Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/9b0e438c-4fd0-64bd-7056-00bf5460b244/displayicon.png"
+  },
+  "2128c60c-4bd0-a707-aa88-7da65c6b4f4e": {
+    "uuid": "2128c60c-4bd0-a707-aa88-7da65c6b4f4e",
+    "displayName": "Root Beer Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/2128c60c-4bd0-a707-aa88-7da65c6b4f4e/displayicon.png"
+  },
+  "1a838fd4-43c3-dad7-ad30-37b9240c1ce1": {
+    "uuid": "1a838fd4-43c3-dad7-ad30-37b9240c1ce1",
+    "displayName": "Immortal Rose Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/1a838fd4-43c3-dad7-ad30-37b9240c1ce1/displayicon.png"
+  },
+  "d655890d-47fb-9f93-73a0-e2bd661f9c45": {
+    "uuid": "d655890d-47fb-9f93-73a0-e2bd661f9c45",
+    "displayName": "Sentinels of Light, Ep 7 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d655890d-47fb-9f93-73a0-e2bd661f9c45/displayicon.png"
+  },
+  "1ab94e60-428a-0037-53ba-c3b9da93a36b": {
+    "uuid": "1ab94e60-428a-0037-53ba-c3b9da93a36b",
+    "displayName": "Salt Shaker Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/1ab94e60-428a-0037-53ba-c3b9da93a36b/displayicon.png"
+  },
+  "1c54de09-444d-61c3-11a8-47b94f22c05e": {
+    "uuid": "1c54de09-444d-61c3-11a8-47b94f22c05e",
+    "displayName": "Epilogue: Salt Shaker Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/1c54de09-444d-61c3-11a8-47b94f22c05e/displayicon.png"
+  },
+  "721dd4f3-4217-7e78-4a02-b99097f4d457": {
+    "uuid": "721dd4f3-4217-7e78-4a02-b99097f4d457",
+    "displayName": "Ancient Inheritance Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/721dd4f3-4217-7e78-4a02-b99097f4d457/displayicon.png"
+  },
+  "affee4fe-4b57-dddd-beb2-deaf0a641b25": {
+    "uuid": "affee4fe-4b57-dddd-beb2-deaf0a641b25",
+    "displayName": "Dog Tags Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/affee4fe-4b57-dddd-beb2-deaf0a641b25/displayicon.png"
+  },
+  "7e48cfb7-4ca8-c978-06a9-28aefa84c69a": {
+    "uuid": "7e48cfb7-4ca8-c978-06a9-28aefa84c69a",
+    "displayName": "Sunset Scoot Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7e48cfb7-4ca8-c978-06a9-28aefa84c69a/displayicon.png"
+  },
+  "6364afb1-4ae0-3c71-f5a8-89b7f863c14e": {
+    "uuid": "6364afb1-4ae0-3c71-f5a8-89b7f863c14e",
+    "displayName": "Seal of Approval Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/6364afb1-4ae0-3c71-f5a8-89b7f863c14e/displayicon.png"
+  },
+  "d34fcca1-45af-0ca9-27ec-0ba76d16fc80": {
+    "uuid": "d34fcca1-45af-0ca9-27ec-0ba76d16fc80",
+    "displayName": "Peripherals Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d34fcca1-45af-0ca9-27ec-0ba76d16fc80/displayicon.png"
+  },
+  "225b7810-4455-117d-8b41-a8b74a136301": {
+    "uuid": "225b7810-4455-117d-8b41-a8b74a136301",
+    "displayName": "Silhouette Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/225b7810-4455-117d-8b41-a8b74a136301/displayicon.png"
+  },
+  "912110cb-4f40-ada7-e338-518244fff9b2": {
+    "uuid": "912110cb-4f40-ada7-e338-518244fff9b2",
+    "displayName": "Fishbones Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/912110cb-4f40-ada7-e338-518244fff9b2/displayicon.png"
+  },
+  "ed664c3c-4293-fa63-65eb-a4a016c1e61a": {
+    "uuid": "ed664c3c-4293-fa63-65eb-a4a016c1e61a",
+    "displayName": "Shellspire Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ed664c3c-4293-fa63-65eb-a4a016c1e61a/displayicon.png"
+  },
+  "f5620e46-48e3-d91d-5f86-13ae8634d311": {
+    "uuid": "f5620e46-48e3-d91d-5f86-13ae8634d311",
+    "displayName": "Sheng Jian Bao Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f5620e46-48e3-d91d-5f86-13ae8634d311/displayicon.png"
+  },
+  "03b64957-4034-30a6-1c37-4e9016f3ab48": {
+    "uuid": "03b64957-4034-30a6-1c37-4e9016f3ab48",
+    "displayName": "Pocket Sized Sheriff Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/03b64957-4034-30a6-1c37-4e9016f3ab48/displayicon.png"
+  },
+  "3826b22c-4f99-587f-a06d-e48db47d3fc4": {
+    "uuid": "3826b22c-4f99-587f-a06d-e48db47d3fc4",
+    "displayName": "Epilogue: Pocket Sized Sheriff Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/3826b22c-4f99-587f-a06d-e48db47d3fc4/displayicon.png"
+  },
+  "f99da793-4f3c-c551-caa8-9b995bea1aa1": {
+    "uuid": "f99da793-4f3c-c551-caa8-9b995bea1aa1",
+    "displayName": "Knight's Market Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f99da793-4f3c-c551-caa8-9b995bea1aa1/displayicon.png"
+  },
+  "95d55177-4cad-93d0-ba2a-2cb3648904a8": {
+    "uuid": "95d55177-4cad-93d0-ba2a-2cb3648904a8",
+    "displayName": "Swinging Shumai Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/95d55177-4cad-93d0-ba2a-2cb3648904a8/displayicon.png"
+  },
+  "35570627-49fd-ad5d-6745-48868f031269": {
+    "uuid": "35570627-49fd-ad5d-6745-48868f031269",
+    "displayName": "Lycan's Bane Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/35570627-49fd-ad5d-6745-48868f031269/displayicon.png"
+  },
+  "5f77afcd-4fe2-7869-ed3f-068e8bacaa0c": {
+    "uuid": "5f77afcd-4fe2-7869-ed3f-068e8bacaa0c",
+    "displayName": "Transition Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/5f77afcd-4fe2-7869-ed3f-068e8bacaa0c/displayicon.png"
+  },
+  "4af8fe99-4140-ed95-54a2-8d9c09566fb0": {
+    "uuid": "4af8fe99-4140-ed95-54a2-8d9c09566fb0",
+    "displayName": "Sleepy Bruno Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/4af8fe99-4140-ed95-54a2-8d9c09566fb0/displayicon.png"
+  },
+  "99f75010-444e-e009-014b-4ead5d1deee3": {
+    "uuid": "99f75010-444e-e009-014b-4ead5d1deee3",
+    "displayName": "All-purpose Slipper Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/99f75010-444e-e009-014b-4ead5d1deee3/displayicon.png"
+  },
+  "5794724c-47f3-8883-6e63-c395d626f760": {
+    "uuid": "5794724c-47f3-8883-6e63-c395d626f760",
+    "displayName": "Metal Wings Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/5794724c-47f3-8883-6e63-c395d626f760/displayicon.png"
+  },
+  "2539ef35-419e-1c46-782f-398e97d212fa": {
+    "uuid": "2539ef35-419e-1c46-782f-398e97d212fa",
+    "displayName": "Winter Whisper Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/2539ef35-419e-1c46-782f-398e97d212fa/displayicon.png"
+  },
+  "e4267845-4725-ff8e-6c71-ae933844565f": {
+    "uuid": "e4267845-4725-ff8e-6c71-ae933844565f",
+    "displayName": "Snowbro Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e4267845-4725-ff8e-6c71-ae933844565f/displayicon.png"
+  },
+  "67310368-40c0-75fc-4853-3192ddf3011a": {
+    "uuid": "67310368-40c0-75fc-4853-3192ddf3011a",
+    "displayName": "Snowfall Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/67310368-40c0-75fc-4853-3192ddf3011a/displayicon.png"
+  },
+  "72a48d20-40b8-8a99-1c96-c7a549af4640": {
+    "uuid": "72a48d20-40b8-8a99-1c96-c7a549af4640",
+    "displayName": "Sentinels of Light Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/72a48d20-40b8-8a99-1c96-c7a549af4640/displayicon.png"
+  },
+  "0eab96da-ed34-4bdb-978f-b02b2fb4ebcc": {
+    "uuid": "0eab96da-ed34-4bdb-978f-b02b2fb4ebcc",
+    "displayName": "Reaver Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/0eab96da-ed34-4bdb-978f-b02b2fb4ebcc/displayicon.png"
+  },
+  "9b960309-47e1-aaac-0341-00b8bbcc11d8": {
+    "uuid": "9b960309-47e1-aaac-0341-00b8bbcc11d8",
+    "displayName": "Reaver, EP 5 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/9b960309-47e1-aaac-0341-00b8bbcc11d8/displayicon.png"
+  },
+  "a8e2dac4-4be6-75e7-bf76-1f9b5a6d5fb5": {
+    "uuid": "a8e2dac4-4be6-75e7-bf76-1f9b5a6d5fb5",
+    "displayName": "Sovereign Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/a8e2dac4-4be6-75e7-bf76-1f9b5a6d5fb5/displayicon.png"
+  },
+  "16031821-4628-f957-66f9-a28a023d3bd7": {
+    "uuid": "16031821-4628-f957-66f9-a28a023d3bd7",
+    "displayName": "Sovereign, Ep 8 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/16031821-4628-f957-66f9-a28a023d3bd7/displayicon.png"
+  },
+  "278e4d19-4026-02ac-263e-bca2b69df8fb": {
+    "uuid": "278e4d19-4026-02ac-263e-bca2b69df8fb",
+    "displayName": "Hot Take Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/278e4d19-4026-02ac-263e-bca2b69df8fb/displayicon.png"
+  },
+  "0ec28d81-498c-af58-722c-baa60a84151c": {
+    "uuid": "0ec28d81-498c-af58-722c-baa60a84151c",
+    "displayName": "The Spike Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/0ec28d81-498c-af58-722c-baa60a84151c/displayicon.png"
+  },
+  "134a2077-426b-c0ea-28bd-04b2cb0a1c72": {
+    "uuid": "134a2077-426b-c0ea-28bd-04b2cb0a1c72",
+    "displayName": "Spike Rush Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/134a2077-426b-c0ea-28bd-04b2cb0a1c72/displayicon.png"
+  },
+  "d35087b3-4eda-0c0d-ecf1-c18148ed7e88": {
+    "uuid": "d35087b3-4eda-0c0d-ecf1-c18148ed7e88",
+    "displayName": "Mystbloom Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d35087b3-4eda-0c0d-ecf1-c18148ed7e88/displayicon.png"
+  },
+  "4e32934e-4ae1-2223-b9e4-90be4bd9677e": {
+    "uuid": "4e32934e-4ae1-2223-b9e4-90be4bd9677e",
+    "displayName": "Split Decision Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/4e32934e-4ae1-2223-b9e4-90be4bd9677e/displayicon.png"
+  },
+  "547c6463-41b5-af1e-95ba-c690d734349c": {
+    "uuid": "547c6463-41b5-af1e-95ba-c690d734349c",
+    "displayName": "Battle Crab Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/547c6463-41b5-af1e-95ba-c690d734349c/displayicon.png"
+  },
+  "89dac44e-42b3-3fd3-50ec-7982980d2b53": {
+    "uuid": "89dac44e-42b3-3fd3-50ec-7982980d2b53",
+    "displayName": "Surge Protector Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/89dac44e-42b3-3fd3-50ec-7982980d2b53/displayicon.png"
+  },
+  "ca84dd34-466a-e084-77d1-599f4e30ca97": {
+    "uuid": "ca84dd34-466a-e084-77d1-599f4e30ca97",
+    "displayName": "Lucky Star Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ca84dd34-466a-e084-77d1-599f4e30ca97/displayicon.png"
+  },
+  "93f87778-4f95-c0c4-5686-21bf55542ecd": {
+    "uuid": "93f87778-4f95-c0c4-5686-21bf55542ecd",
+    "displayName": "Epilogue: Lucky Star Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/93f87778-4f95-c0c4-5686-21bf55542ecd/displayicon.png"
+  },
+  "db524f8d-46eb-6a7d-cc74-e9a0ccafeeee": {
+    "uuid": "db524f8d-46eb-6a7d-cc74-e9a0ccafeeee",
+    "displayName": "Dimensional Fragment Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/db524f8d-46eb-6a7d-cc74-e9a0ccafeeee/displayicon.png"
+  },
+  "bc8e9f3d-432b-3971-5525-01ace2a74eca": {
+    "uuid": "bc8e9f3d-432b-3971-5525-01ace2a74eca",
+    "displayName": "Sock of Cheer Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/bc8e9f3d-432b-3971-5525-01ace2a74eca/displayicon.png"
+  },
+  "63b69a44-4ab4-b810-c33d-d29995168bc4": {
+    "uuid": "63b69a44-4ab4-b810-c33d-d29995168bc4",
+    "displayName": "Tilde Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/63b69a44-4ab4-b810-c33d-d29995168bc4/displayicon.png"
+  },
+  "670cda0d-418c-ff78-91d7-82814c13b672": {
+    "uuid": "670cda0d-418c-ff78-91d7-82814c13b672",
+    "displayName": "Head in the Clouds Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/670cda0d-418c-ff78-91d7-82814c13b672/displayicon.png"
+  },
+  "ba57ccb8-4536-1859-22ca-419eeda037d2": {
+    "uuid": "ba57ccb8-4536-1859-22ca-419eeda037d2",
+    "displayName": "Riptide Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ba57ccb8-4536-1859-22ca-419eeda037d2/displayicon.png"
+  },
+  "5de7339f-40fc-df25-1cf4-d3a5255ba1f7": {
+    "uuid": "5de7339f-40fc-df25-1cf4-d3a5255ba1f7",
+    "displayName": "Cheesed Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/5de7339f-40fc-df25-1cf4-d3a5255ba1f7/displayicon.png"
+  },
+  "2a987627-4645-23d1-364e-79aad4915073": {
+    "uuid": "2a987627-4645-23d1-364e-79aad4915073",
+    "displayName": "On The Low Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/2a987627-4645-23d1-364e-79aad4915073/displayicon.png"
+  },
+  "2fbe33aa-4e7a-b601-5fa8-ce8fb6511113": {
+    "uuid": "2fbe33aa-4e7a-b601-5fa8-ce8fb6511113",
+    "displayName": "Bear Tactics Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/2fbe33aa-4e7a-b601-5fa8-ce8fb6511113/displayicon.png"
+  },
+  "e667ab9c-4dd4-73ec-b89e-9da01e3afa6f": {
+    "uuid": "e667ab9c-4dd4-73ec-b89e-9da01e3afa6f",
+    "displayName": "Hula Bear Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e667ab9c-4dd4-73ec-b89e-9da01e3afa6f/displayicon.png"
+  },
+  "e645bf64-49c1-de39-d8d4-48bd11e0b7e0": {
+    "uuid": "e645bf64-49c1-de39-d8d4-48bd11e0b7e0",
+    "displayName": "Bunny Tactics Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e645bf64-49c1-de39-d8d4-48bd11e0b7e0/displayicon.png"
+  },
+  "4231564e-4354-3120-66c6-e6a3d9abab70": {
+    "uuid": "4231564e-4354-3120-66c6-e6a3d9abab70",
+    "displayName": "UltraBright Torch Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/4231564e-4354-3120-66c6-e6a3d9abab70/displayicon.png"
+  },
+  "e0df1664-43ed-0652-85df-2dbdc5af7037": {
+    "uuid": "e0df1664-43ed-0652-85df-2dbdc5af7037",
+    "displayName": "Cat Tactics Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e0df1664-43ed-0652-85df-2dbdc5af7037/displayicon.png"
+  },
+  "e4e49120-478e-56fa-54bf-1aa13cf03495": {
+    "uuid": "e4e49120-478e-56fa-54bf-1aa13cf03495",
+    "displayName": "Hang Time Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e4e49120-478e-56fa-54bf-1aa13cf03495/displayicon.png"
+  },
+  "1f99d997-4afb-ef4c-e754-caa0bf84fce1": {
+    "uuid": "1f99d997-4afb-ef4c-e754-caa0bf84fce1",
+    "displayName": "Squirrel Tactics Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/1f99d997-4afb-ef4c-e754-caa0bf84fce1/displayicon.png"
+  },
+  "55702e59-4e3f-e2dd-2b31-91b1938cf0e1": {
+    "uuid": "55702e59-4e3f-e2dd-2b31-91b1938cf0e1",
+    "displayName": "Potato Aim Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/55702e59-4e3f-e2dd-2b31-91b1938cf0e1/displayicon.png"
+  },
+  "b60a7f7f-4ea6-04c4-4e5d-39badf60f879": {
+    "uuid": "b60a7f7f-4ea6-04c4-4e5d-39badf60f879",
+    "displayName": "Mr.Takoyaki Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b60a7f7f-4ea6-04c4-4e5d-39badf60f879/displayicon.png"
+  },
+  "b37765f0-48cd-9a0b-ceb7-8e8d261f4373": {
+    "uuid": "b37765f0-48cd-9a0b-ceb7-8e8d261f4373",
+    "displayName": "Sample 36-K Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b37765f0-48cd-9a0b-ceb7-8e8d261f4373/displayicon.png"
+  },
+  "cd1ef501-476d-e9fb-3944-a6b0e2a79878": {
+    "uuid": "cd1ef501-476d-e9fb-3944-a6b0e2a79878",
+    "displayName": "Radianite Orb Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/cd1ef501-476d-e9fb-3944-a6b0e2a79878/displayicon.png"
+  },
+  "d3cc1856-4df9-ca86-deee-3f80af0edf79": {
+    "uuid": "d3cc1856-4df9-ca86-deee-3f80af0edf79",
+    "displayName": "Tigris Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d3cc1856-4df9-ca86-deee-3f80af0edf79/displayicon.png"
+  },
+  "d5061e49-44fa-3e30-242c-fc8d01f01187": {
+    "uuid": "d5061e49-44fa-3e30-242c-fc8d01f01187",
+    "displayName": "Fortune Paws Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/d5061e49-44fa-3e30-242c-fc8d01f01187/displayicon.png"
+  },
+  "22481bd6-45d7-55a9-db2f-f4a7b86c0d05": {
+    "uuid": "22481bd6-45d7-55a9-db2f-f4a7b86c0d05",
+    "displayName": "Toaster Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/22481bd6-45d7-55a9-db2f-f4a7b86c0d05/displayicon.png"
+  },
+  "533c84ee-405e-42aa-2f1e-54a60436259e": {
+    "uuid": "533c84ee-405e-42aa-2f1e-54a60436259e",
+    "displayName": "NO LIMITS Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/533c84ee-405e-42aa-2f1e-54a60436259e/displayicon.png"
+  },
+  "934164fc-49dd-1e67-0896-6c8e645fd081": {
+    "uuid": "934164fc-49dd-1e67-0896-6c8e645fd081",
+    "displayName": "Octobuddy Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/934164fc-49dd-1e67-0896-6c8e645fd081/displayicon.png"
+  },
+  "476e2d56-46a1-3607-aa61-3487cf9ae80f": {
+    "uuid": "476e2d56-46a1-3607-aa61-3487cf9ae80f",
+    "displayName": "Scuttle Trash Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/476e2d56-46a1-3607-aa61-3487cf9ae80f/displayicon.png"
+  },
+  "ad508aeb-44b7-46bf-f923-959267483e78": {
+    "uuid": "ad508aeb-44b7-46bf-f923-959267483e78",
+    "displayName": "Fist Bump Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ad508aeb-44b7-46bf-f923-959267483e78/displayicon.png"
+  },
+  "ae8a34dd-4d2f-9820-2859-998669e6d39d": {
+    "uuid": "ae8a34dd-4d2f-9820-2859-998669e6d39d",
+    "displayName": "Sandswept Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ae8a34dd-4d2f-9820-2859-998669e6d39d/displayicon.png"
+  },
+  "86a16990-4eeb-9d25-e8d0-cfbe2f532443": {
+    "uuid": "86a16990-4eeb-9d25-e8d0-cfbe2f532443",
+    "displayName": "Champions 2022 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/86a16990-4eeb-9d25-e8d0-cfbe2f532443/displayicon.png"
+  },
+  "00a4ef4f-4887-8ec1-f25b-b48e4771d328": {
+    "uuid": "00a4ef4f-4887-8ec1-f25b-b48e4771d328",
+    "displayName": "Turtle Ship Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/00a4ef4f-4887-8ec1-f25b-b48e4771d328/displayicon.png"
+  },
+  "82fe7bdf-4a0a-db13-72b4-b19bbf44619e": {
+    "uuid": "82fe7bdf-4a0a-db13-72b4-b19bbf44619e",
+    "displayName": "No. 1 Fan Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/82fe7bdf-4a0a-db13-72b4-b19bbf44619e/displayicon.png"
+  },
+  "8e992d1d-4e3e-627f-7e84-cc98963f304c": {
+    "uuid": "8e992d1d-4e3e-627f-7e84-cc98963f304c",
+    "displayName": "Tower of Power Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8e992d1d-4e3e-627f-7e84-cc98963f304c/displayicon.png"
+  },
+  "30abc170-4cbb-bd6e-8a19-b1bbe91fa99a": {
+    "uuid": "30abc170-4cbb-bd6e-8a19-b1bbe91fa99a",
+    "displayName": "Outta This World Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/30abc170-4cbb-bd6e-8a19-b1bbe91fa99a/displayicon.png"
+  },
+  "ada5f921-4d81-f439-0017-0e86877a02bd": {
+    "uuid": "ada5f921-4d81-f439-0017-0e86877a02bd",
+    "displayName": "Exquisitely Wrapped Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ada5f921-4d81-f439-0017-0e86877a02bd/displayicon.png"
+  },
+  "c40fd3cc-41d7-20f2-fef4-6b954d8813c5": {
+    "uuid": "c40fd3cc-41d7-20f2-fef4-6b954d8813c5",
+    "displayName": "Stringed Soprano Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c40fd3cc-41d7-20f2-fef4-6b954d8813c5/displayicon.png"
+  },
+  "43922614-4fe5-52c9-8d35-689db5ec4681": {
+    "uuid": "43922614-4fe5-52c9-8d35-689db5ec4681",
+    "displayName": "Ego Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/43922614-4fe5-52c9-8d35-689db5ec4681/displayicon.png"
+  },
+  "ac2edb72-4927-1c67-b866-8f9a4c930704": {
+    "uuid": "ac2edb72-4927-1c67-b866-8f9a4c930704",
+    "displayName": "VCT x 100T Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ac2edb72-4927-1c67-b866-8f9a4c930704/displayicon.png"
+  },
+  "a4dd7944-4637-7f40-6e7a-91aa190e09d2": {
+    "uuid": "a4dd7944-4637-7f40-6e7a-91aa190e09d2",
+    "displayName": "VCT x AG Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/a4dd7944-4637-7f40-6e7a-91aa190e09d2/displayicon.png"
+  },
+  "665b4cb2-4beb-ed0c-3fb7-b48723e3c2dc": {
+    "uuid": "665b4cb2-4beb-ed0c-3fb7-b48723e3c2dc",
+    "displayName": "VCT x BBL Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/665b4cb2-4beb-ed0c-3fb7-b48723e3c2dc/displayicon.png"
+  },
+  "f9418ed5-4acc-d8b1-6e66-659a0b26233b": {
+    "uuid": "f9418ed5-4acc-d8b1-6e66-659a0b26233b",
+    "displayName": "VCT x BLD Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f9418ed5-4acc-d8b1-6e66-659a0b26233b/displayicon.png"
+  },
+  "2dc4e4c0-491e-43c8-f51b-f69f6ff16e37": {
+    "uuid": "2dc4e4c0-491e-43c8-f51b-f69f6ff16e37",
+    "displayName": "VCT x BLG Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/2dc4e4c0-491e-43c8-f51b-f69f6ff16e37/displayicon.png"
+  },
+  "96ca5453-44b7-c714-322c-f7b357524a42": {
+    "uuid": "96ca5453-44b7-c714-322c-f7b357524a42",
+    "displayName": "VCT x C9 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/96ca5453-44b7-c714-322c-f7b357524a42/displayicon.png"
+  },
+  "73a115ec-47a6-fdcb-94ad-b1b4a26bff55": {
+    "uuid": "73a115ec-47a6-fdcb-94ad-b1b4a26bff55",
+    "displayName": "VCT x DFM Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/73a115ec-47a6-fdcb-94ad-b1b4a26bff55/displayicon.png"
+  },
+  "4dc89b07-4216-dbf5-ec95-dda4f69d735d": {
+    "uuid": "4dc89b07-4216-dbf5-ec95-dda4f69d735d",
+    "displayName": "VCT x DRG Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/4dc89b07-4216-dbf5-ec95-dda4f69d735d/displayicon.png"
+  },
+  "dc4e655d-4897-89d4-50f7-c69161271626": {
+    "uuid": "dc4e655d-4897-89d4-50f7-c69161271626",
+    "displayName": "VCT x DRX Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/dc4e655d-4897-89d4-50f7-c69161271626/displayicon.png"
+  },
+  "838329ea-4d2a-a3c6-de64-b4875ab5b8bf": {
+    "uuid": "838329ea-4d2a-a3c6-de64-b4875ab5b8bf",
+    "displayName": "VCT x EDG Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/838329ea-4d2a-a3c6-de64-b4875ab5b8bf/displayicon.png"
+  },
+  "5b6c408d-466f-a422-92c9-6cbe42f38773": {
+    "uuid": "5b6c408d-466f-a422-92c9-6cbe42f38773",
+    "displayName": "VCT x EG Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/5b6c408d-466f-a422-92c9-6cbe42f38773/displayicon.png"
+  },
+  "e737a439-4029-644b-f8fa-36999bad7a59": {
+    "uuid": "e737a439-4029-644b-f8fa-36999bad7a59",
+    "displayName": "VCT x FNC Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/e737a439-4029-644b-f8fa-36999bad7a59/displayicon.png"
+  },
+  "439d78bb-4d34-05da-f45e-acb488f72c57": {
+    "uuid": "439d78bb-4d34-05da-f45e-acb488f72c57",
+    "displayName": "VCT x FPX Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/439d78bb-4d34-05da-f45e-acb488f72c57/displayicon.png"
+  },
+  "3096d399-49f7-a491-4c10-b39432df91d3": {
+    "uuid": "3096d399-49f7-a491-4c10-b39432df91d3",
+    "displayName": "VCT x FUR Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/3096d399-49f7-a491-4c10-b39432df91d3/displayicon.png"
+  },
+  "cff9765f-4d50-6502-b349-5d8a838259db": {
+    "uuid": "cff9765f-4d50-6502-b349-5d8a838259db",
+    "displayName": "VCT x FUT Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/cff9765f-4d50-6502-b349-5d8a838259db/displayicon.png"
+  },
+  "701ffb50-4752-adfb-c33d-959ab9d1b3dd": {
+    "uuid": "701ffb50-4752-adfb-c33d-959ab9d1b3dd",
+    "displayName": "VCT x G2 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/701ffb50-4752-adfb-c33d-959ab9d1b3dd/displayicon.png"
+  },
+  "bbfc339c-4e07-a01b-cf21-f19cd3019795": {
+    "uuid": "bbfc339c-4e07-a01b-cf21-f19cd3019795",
+    "displayName": "VCT x GEN Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/bbfc339c-4e07-a01b-cf21-f19cd3019795/displayicon.png"
+  },
+  "f2423609-4d6b-0c51-e03f-9aacb92a65b2": {
+    "uuid": "f2423609-4d6b-0c51-e03f-9aacb92a65b2",
+    "displayName": "VCT x GE Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f2423609-4d6b-0c51-e03f-9aacb92a65b2/displayicon.png"
+  },
+  "c850cf63-4cfd-15c1-ad05-759d7102ef32": {
+    "uuid": "c850cf63-4cfd-15c1-ad05-759d7102ef32",
+    "displayName": "VCT x GX Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c850cf63-4cfd-15c1-ad05-759d7102ef32/displayicon.png"
+  },
+  "f80640a5-4acb-a875-e1db-a8bd5f666def": {
+    "uuid": "f80640a5-4acb-a875-e1db-a8bd5f666def",
+    "displayName": "VCT x JDG Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f80640a5-4acb-a875-e1db-a8bd5f666def/displayicon.png"
+  },
+  "7051e24c-467f-8948-8755-cebb06b615b8": {
+    "uuid": "7051e24c-467f-8948-8755-cebb06b615b8",
+    "displayName": "VCT x KC Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7051e24c-467f-8948-8755-cebb06b615b8/displayicon.png"
+  },
+  "cf56712a-440e-0957-909f-b4846a6a0bfd": {
+    "uuid": "cf56712a-440e-0957-909f-b4846a6a0bfd",
+    "displayName": "VCT x KOI Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/cf56712a-440e-0957-909f-b4846a6a0bfd/displayicon.png"
+  },
+  "b611476e-4c0a-5e9c-f8e5-b5b4c0c7c434": {
+    "uuid": "b611476e-4c0a-5e9c-f8e5-b5b4c0c7c434",
+    "displayName": "VCT x KRÜ Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b611476e-4c0a-5e9c-f8e5-b5b4c0c7c434/displayicon.png"
+  },
+  "9053abd3-4462-b531-bb5e-ee8da11b7a41": {
+    "uuid": "9053abd3-4462-b531-bb5e-ee8da11b7a41",
+    "displayName": "VCT x LEV Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/9053abd3-4462-b531-bb5e-ee8da11b7a41/displayicon.png"
+  },
+  "98b9906e-4e52-9b2d-2d10-be860034cd24": {
+    "uuid": "98b9906e-4e52-9b2d-2d10-be860034cd24",
+    "displayName": "VCT x LOUD Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/98b9906e-4e52-9b2d-2d10-be860034cd24/displayicon.png"
+  },
+  "0e85fdd6-458e-6bca-9f07-3382a829d516": {
+    "uuid": "0e85fdd6-458e-6bca-9f07-3382a829d516",
+    "displayName": "VCT x M8 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/0e85fdd6-458e-6bca-9f07-3382a829d516/displayicon.png"
+  },
+  "9bbb0bfc-4669-8a77-96c7-ffad94535e20": {
+    "uuid": "9bbb0bfc-4669-8a77-96c7-ffad94535e20",
+    "displayName": "VCT x MIBR Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/9bbb0bfc-4669-8a77-96c7-ffad94535e20/displayicon.png"
+  },
+  "48e64449-4f1c-5e55-3755-7e95b5205840": {
+    "uuid": "48e64449-4f1c-5e55-3755-7e95b5205840",
+    "displayName": "VCT x NAVI Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/48e64449-4f1c-5e55-3755-7e95b5205840/displayicon.png"
+  },
+  "5537a406-4654-2b7f-7a67-dfaaeb371151": {
+    "uuid": "5537a406-4654-2b7f-7a67-dfaaeb371151",
+    "displayName": "VCT x NOVA Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/5537a406-4654-2b7f-7a67-dfaaeb371151/displayicon.png"
+  },
+  "c0cec633-4e4b-75de-2f51-ad902c050e88": {
+    "uuid": "c0cec633-4e4b-75de-2f51-ad902c050e88",
+    "displayName": "VCT x NRG Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c0cec633-4e4b-75de-2f51-ad902c050e88/displayicon.png"
+  },
+  "fcf1bd2d-4830-e76d-6971-c1a960c0fdcf": {
+    "uuid": "fcf1bd2d-4830-e76d-6971-c1a960c0fdcf",
+    "displayName": "VCT x PRX Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/fcf1bd2d-4830-e76d-6971-c1a960c0fdcf/displayicon.png"
+  },
+  "1afb7cbd-4168-54c0-40e3-afbb0d1d6c83": {
+    "uuid": "1afb7cbd-4168-54c0-40e3-afbb0d1d6c83",
+    "displayName": "VCT x RRQ Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/1afb7cbd-4168-54c0-40e3-afbb0d1d6c83/displayicon.png"
+  },
+  "cd6609ba-4e00-bf0c-b059-53829c5046d9": {
+    "uuid": "cd6609ba-4e00-bf0c-b059-53829c5046d9",
+    "displayName": "VCT x SEN Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/cd6609ba-4e00-bf0c-b059-53829c5046d9/displayicon.png"
+  },
+  "96e97b3e-4694-f71c-7099-e29764b0a889": {
+    "uuid": "96e97b3e-4694-f71c-7099-e29764b0a889",
+    "displayName": "VCT x T1 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/96e97b3e-4694-f71c-7099-e29764b0a889/displayicon.png"
+  },
+  "0a6819dd-4d83-c721-fc92-5fbbf0c5ccaf": {
+    "uuid": "0a6819dd-4d83-c721-fc92-5fbbf0c5ccaf",
+    "displayName": "VCT x TE Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/0a6819dd-4d83-c721-fc92-5fbbf0c5ccaf/displayicon.png"
+  },
+  "77d6c06f-4fdf-61de-5175-0fbf496a3b3f": {
+    "uuid": "77d6c06f-4fdf-61de-5175-0fbf496a3b3f",
+    "displayName": "VCT x TEC Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/77d6c06f-4fdf-61de-5175-0fbf496a3b3f/displayicon.png"
+  },
+  "17ff893a-4590-c161-4907-1493c79c2a2c": {
+    "uuid": "17ff893a-4590-c161-4907-1493c79c2a2c",
+    "displayName": "VCT x TH Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/17ff893a-4590-c161-4907-1493c79c2a2c/displayicon.png"
+  },
+  "9406ef6b-466c-9766-926c-6ea14b720f8d": {
+    "uuid": "9406ef6b-466c-9766-926c-6ea14b720f8d",
+    "displayName": "VCT x TL Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/9406ef6b-466c-9766-926c-6ea14b720f8d/displayicon.png"
+  },
+  "f56781b9-4b4f-e9e2-7be6-309db9626e3a": {
+    "uuid": "f56781b9-4b4f-e9e2-7be6-309db9626e3a",
+    "displayName": "VCT x TLN Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/f56781b9-4b4f-e9e2-7be6-309db9626e3a/displayicon.png"
+  },
+  "0441e3d3-43f2-2cce-a10d-ffb145a77595": {
+    "uuid": "0441e3d3-43f2-2cce-a10d-ffb145a77595",
+    "displayName": "VCT x TS Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/0441e3d3-43f2-2cce-a10d-ffb145a77595/displayicon.png"
+  },
+  "86361894-4c7d-1589-b7d9-c79527e99d8a": {
+    "uuid": "86361894-4c7d-1589-b7d9-c79527e99d8a",
+    "displayName": "VCT x TYL Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/86361894-4c7d-1589-b7d9-c79527e99d8a/displayicon.png"
+  },
+  "577fad5f-4483-f062-fb03-47868632fb13": {
+    "uuid": "577fad5f-4483-f062-fb03-47868632fb13",
+    "displayName": "VCT x VIT Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/577fad5f-4483-f062-fb03-47868632fb13/displayicon.png"
+  },
+  "b4a5621e-4417-f68b-20ac-c2be701838ef": {
+    "uuid": "b4a5621e-4417-f68b-20ac-c2be701838ef",
+    "displayName": "VCT x WOL Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/b4a5621e-4417-f68b-20ac-c2be701838ef/displayicon.png"
+  },
+  "0cb8c399-43d9-9d91-7935-918b36a93901": {
+    "uuid": "0cb8c399-43d9-9d91-7935-918b36a93901",
+    "displayName": "VCT x ZETA Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/0cb8c399-43d9-9d91-7935-918b36a93901/displayicon.png"
+  },
+  "27842e23-4db9-c633-928a-a183d0b00ea0": {
+    "uuid": "27842e23-4db9-c633-928a-a183d0b00ea0",
+    "displayName": "Duo's Day Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/27842e23-4db9-c633-928a-a183d0b00ea0/displayicon.png"
+  },
+  "86bbce95-4b76-c933-9939-9aa0f0f2c169": {
+    "uuid": "86bbce95-4b76-c933-9939-9aa0f0f2c169",
+    "displayName": "The Wheel of Steel Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/86bbce95-4b76-c933-9939-9aa0f0f2c169/displayicon.png"
+  },
+  "c4f69de5-4440-19b5-8953-36b12ba42bb0": {
+    "uuid": "c4f69de5-4440-19b5-8953-36b12ba42bb0",
+    "displayName": "Soul Capsule Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/c4f69de5-4440-19b5-8953-36b12ba42bb0/displayicon.png"
+  },
+  "8404dd59-43c2-e863-de41-2d9e1b1adc04": {
+    "uuid": "8404dd59-43c2-e863-de41-2d9e1b1adc04",
+    "displayName": "Holomoku Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/8404dd59-43c2-e863-de41-2d9e1b1adc04/displayicon.png"
+  },
+  "575ddf35-42a1-1de6-8599-d78dc7fb9a02": {
+    "uuid": "575ddf35-42a1-1de6-8599-d78dc7fb9a02",
+    "displayName": "Walis Tambo Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/575ddf35-42a1-1de6-8599-d78dc7fb9a02/displayicon.png"
+  },
+  "756be48e-4769-542d-45ad-53ac67c5b872": {
+    "uuid": "756be48e-4769-542d-45ad-53ac67c5b872",
+    "displayName": "Luna Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/756be48e-4769-542d-45ad-53ac67c5b872/displayicon.png"
+  },
+  "7d2614f5-4811-a2b8-5e5a-4c8d8d1c558f": {
+    "uuid": "7d2614f5-4811-a2b8-5e5a-4c8d8d1c558f",
+    "displayName": "White Snake Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7d2614f5-4811-a2b8-5e5a-4c8d8d1c558f/displayicon.png"
+  },
+  "7cf1fc2c-4456-fa8f-b9f6-c9be7092163f": {
+    "uuid": "7cf1fc2c-4456-fa8f-b9f6-c9be7092163f",
+    "displayName": "Grim Delight Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7cf1fc2c-4456-fa8f-b9f6-c9be7092163f/displayicon.png"
+  },
+  "a2e04067-4ea8-ff47-be4a-f780bdf5e1f7": {
+    "uuid": "a2e04067-4ea8-ff47-be4a-f780bdf5e1f7",
+    "displayName": "Pocket Knife Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/a2e04067-4ea8-ff47-be4a-f780bdf5e1f7/displayicon.png"
+  },
+  "11b2689f-4955-82b6-0207-2d8f40978c39": {
+    "uuid": "11b2689f-4955-82b6-0207-2d8f40978c39",
+    "displayName": "PlayZilla Trick Master Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/11b2689f-4955-82b6-0207-2d8f40978c39/displayicon.png"
+  },
+  "2020356c-4061-7736-053d-90963f8e3caf": {
+    "uuid": "2020356c-4061-7736-053d-90963f8e3caf",
+    "displayName": "Dimensional Drip Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/2020356c-4061-7736-053d-90963f8e3caf/displayicon.png"
+  },
+  "4bfcc79c-4352-aa06-53de-259530012e45": {
+    "uuid": "4bfcc79c-4352-aa06-53de-259530012e45",
+    "displayName": "Zoomer Pop Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/4bfcc79c-4352-aa06-53de-259530012e45/displayicon.png"
+  }
+}
